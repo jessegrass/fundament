@@ -1,0 +1,26 @@
+[repository]
+name = "clasic"
+managed_by_uv = false
+changelog = "CHANGELOG.md"
+version = "version.txt"
+compose = "docker-compose.yml"
+
+[repository.towncrier]
+section = "Project"
+settings = "towncrier.toml"
+
+[backend]
+path = "backend"
+
+[backend.package]
+name = "clasic"
+path = "backend"
+changelog = "backend/CHANGELOG.md"
+towncrier_settings = "backend/pyproject.toml"
+base_package = "Products.CMFPlone"
+publish = false
+
+[cookieplone]
+template = "classic_project"
+template_version = "45219d33af5615b2a13668c404991341bfb5ebff"
+generated_date = "2026-02-15 03:07:17"
