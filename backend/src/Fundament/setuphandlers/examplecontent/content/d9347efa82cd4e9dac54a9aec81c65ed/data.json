@@ -1,0 +1,40 @@
+{
+  "@id": "/bilder/spatenstich2012.jpg",
+  "@type": "Image",
+  "UID": "d9347efa82cd4e9dac54a9aec81c65ed",
+  "allow_discussion": null,
+  "contributors": [],
+  "created": "2026-03-07T22:15:41+00:00",
+  "creators": [
+    "admin"
+  ],
+  "description": "",
+  "effective": null,
+  "exclude_from_nav": false,
+  "expires": null,
+  "exportimport.constrains": {},
+  "exportimport.conversation": [],
+  "id": "spatenstich2012.jpg",
+  "image": {
+    "blob_path": "d9347efa82cd4e9dac54a9aec81c65ed/image/spatenstich2012.jpg",
+    "content-type": "image/jpeg",
+    "filename": "spatenstich2012.jpg",
+    "height": 1095,
+    "size": 200667,
+    "width": 1200
+  },
+  "is_folderish": false,
+  "language": "##DEFAULT##",
+  "layout": "image_view",
+  "lock": {},
+  "modified": "2026-03-07T22:15:41+00:00",
+  "review_state": null,
+  "rights": "",
+  "subjects": [],
+  "title": "spatenstich2012.jpg",
+  "type_title": "Image",
+  "version": "current",
+  "workflow_history": {},
+  "working_copy": null,
+  "working_copy_of": null
+}

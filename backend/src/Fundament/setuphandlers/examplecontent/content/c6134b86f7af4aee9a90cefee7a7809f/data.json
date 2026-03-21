@@ -1,0 +1,102 @@
+{
+  "@id": "/ueber-fundament/hilfe-zur-selbsthile-beim-wohnen-eine-idee-schlaegt-ein",
+  "@type": "Document",
+  "UID": "c6134b86f7af4aee9a90cefee7a7809f",
+  "allow_discussion": null,
+  "changeNote": "",
+  "contributors": [],
+  "created": "2026-02-14T19:07:50+00:00",
+  "creators": [
+    "admin"
+  ],
+  "description": "Die Genossenschaft Fundament Bauen Wohnen Leben eG hat sich im Juli 2005 im Club Voltaire gegr\u00fcndet. Die Initialz\u00fcndung ging vom Verein \u201eLeben und Arbeiten in Gallus und Griesheim\u201c (LAGG e.V.) aus, einem Selbsthilfeverein der Besch\u00e4ftigten in den ehemaligen Adlerwerken. Eines seiner brennenden Themen waren die Werkswohnungen, war das Wohnen \u00fcberhaupt. Aus den dabei gemachten Erfahrungen wuchs die Idee, eine Initiative zur Gr\u00fcndung eines Bauvereins/einer Baugenossenschaft ins Leben zu rufen und finanziell wie ideell zu unterst\u00fctzen. Sechs Bausteine wiesen den Weg:",
+  "effective": "2026-02-14T20:31:00+00:00",
+  "exclude_from_nav": true,
+  "expires": null,
+  "exportimport.constrains": {},
+  "exportimport.conversation": [],
+  "id": "hilfe-zur-selbsthile-beim-wohnen-eine-idee-schlaegt-ein",
+  "is_folderish": false,
+  "language": "##DEFAULT##",
+  "layout": "document_view",
+  "lock": {
+    "locked": false,
+    "stealable": true
+  },
+  "modified": "2026-03-06T13:22:11+00:00",
+  "review_state": "external",
+  "rights": null,
+  "subjects": [],
+  "table_of_contents": false,
+  "text": {
+    "content-type": "text/html",
+    "data": "<ul>\r\n<li>Selbsthilfe durch\u00a0Genossenschaft</li>\r\n<li>Wohnen in\u00a0Frankfurt</li>\r\n<li>Gemeinsam Wohnen und\u00a0Leben</li>\r\n<li>Gemeinsam bauen und\u00a0finanzieren</li>\r\n<li>Sicherheit f\u00fcr das Wohnen im\u00a0Alter</li>\r\n<li>Bezahlbarer Wohnraum in\u00a0Frankfurt</li>\r\n</ul>\r\n<p>Der Aufruf zu einer ersten Veranstaltung im April 2005 lie\u00df 100 Interessierte in den Club Voltaire str\u00f6men. 40 M\u00e4nner und Frauen gr\u00fcndeten kurz danach die Genossenschaft mit dem Namen \u201eFundament\u00a0 Bauen Wohnen Leben\u201c. Im Jahr 2012 hat diese 120 Mitglieder. Der Club Voltaire war viele Jahre lang Heimat der Genossenschaft. Das erste Haus, das Projekt Frankfurter Familien\u201c, wurde 2007 in Preungesheim bezogen, zurzeit entsteht das zweite auf dem ehemaligen Naxosgel\u00e4nde im\u00a0Ostend.</p>\r\n<p>Mitglieder sind nicht nur M\u00e4nner und Frauen, die in solchen Projekten wohnen m\u00f6chten, sondern auch Personen, die die Ziele von Fundament \u2013 soziales, \u00f6kologisches und selbst verwaltetes Wohnen in Frankfurt \u2013 politisch unterst\u00fctzen\u00a0wollen.</p>\r\n<p>Vorstand, Aufsichtsrat, Genossenschaftsbeirat sind alle ehrenamtlich t\u00e4tig. Sie legen mindestens einmal im Jahr den Mitgliedern bei der Generalversammlung Rechenschaft\u00a0ab.</p>\r\n<p>Fundament ist Mitglied im Netzwerk Frankfurt f\u00fcr gemeinschaftliches Wohnen und stellt sich jedes Jahr bei der Informationsb\u00f6rse vor, das dieses zusammen mit der Stadt auf dem R\u00f6mer gestaltet.</p>",
+    "encoding": "utf-8"
+  },
+  "title": "Hilfe zur Selbsthile beim Wohnen: Eine Idee schl\u00e4gt ein",
+  "type_title": "Page",
+  "version": "current",
+  "versioning_enabled": true,
+  "workflow_history": {
+    "intranet_workflow": [
+      {
+        "action": null,
+        "actor": "admin",
+        "comments": "",
+        "review_state": "internal",
+        "time": "2026-02-14T19:07:50+00:00"
+      },
+      {
+        "action": "hide",
+        "actor": "admin",
+        "comments": "",
+        "review_state": "private",
+        "time": "2026-02-14T20:31:42+00:00"
+      },
+      {
+        "action": "show_internally",
+        "actor": "admin",
+        "comments": "",
+        "review_state": "internal",
+        "time": "2026-02-14T20:31:55+00:00"
+      },
+      {
+        "action": "submit",
+        "actor": "admin",
+        "comments": "",
+        "review_state": "pending",
+        "time": "2026-02-14T20:35:27+00:00"
+      },
+      {
+        "action": "publish_externally",
+        "actor": "admin",
+        "comments": "",
+        "review_state": "external",
+        "time": "2026-02-14T20:35:41+00:00"
+      },
+      {
+        "action": null,
+        "actor": null,
+        "comments": "State remapped from control panel",
+        "review_state": "internal",
+        "time": "2026-02-14T23:36:41+00:00"
+      },
+      {
+        "action": "submit",
+        "actor": "admin",
+        "comments": "",
+        "review_state": "pending",
+        "time": "2026-03-06T13:21:57+00:00"
+      },
+      {
+        "action": "publish_externally",
+        "actor": "admin",
+        "comments": "",
+        "review_state": "external",
+        "time": "2026-03-06T13:22:11+00:00"
+      }
+    ]
+  },
+  "working_copy": null,
+  "working_copy_of": null
+}

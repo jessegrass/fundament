@@ -1,0 +1,88 @@
+{
+  "@id": "/impressum",
+  "@type": "Document",
+  "UID": "9028978456064e228073274be5039c2c",
+  "allow_discussion": null,
+  "changeNote": "",
+  "contributors": [],
+  "created": "2026-02-14T20:58:17+00:00",
+  "creators": [
+    "admin"
+  ],
+  "description": "",
+  "effective": "2026-02-14T21:08:00+00:00",
+  "exclude_from_nav": true,
+  "expires": null,
+  "exportimport.constrains": {},
+  "exportimport.conversation": [],
+  "id": "impressum",
+  "is_folderish": false,
+  "language": "##DEFAULT##",
+  "layout": "document_view",
+  "lock": {
+    "locked": false,
+    "stealable": true
+  },
+  "modified": "2026-02-14T23:38:17+00:00",
+  "review_state": "external",
+  "rights": null,
+  "subjects": [],
+  "table_of_contents": false,
+  "text": {
+    "content-type": "text/html",
+    "data": "<div class=\"region region-content\">\r\n<div class=\"block block-system\" id=\"block-system-main\">\r\n<div class=\"content\">\r\n<div class=\"node node-page node-full clearfix\" id=\"node-57\">\r\n<div class=\"content clearfix\">\r\n<div class=\"field field-name-body field-type-text-with-summary field-label-hidden\">\r\n<div class=\"field-items\">\r\n<div class=\"field-item even\">\r\n<p><strong>Unsere Anschrift:<span style=\"white-space: pre;\"> </span></strong><br><span class=\"caps\">FUNDAMENT</span> Bauen Wohnen Leben eG<br>c/o Thau<br>Bingelsweg 114<br>65933 Frankfurt<br>Sprechzeiten:<span style=\"white-space: pre;\"> </span>nach Vereinbarung (kein Besuchsverkehr!)<br>Telefon: <span style=\"white-space: pre;\"> </span>(069) 93 99 29 45<br>Telefax: <span style=\"white-space: pre;\"> </span>(069) 39 04 88 01<br>E-Mail: <span style=\"white-space: pre;\"> </span>Bitte verwenden Sie unser Kontaktformular oder schreiben Sie an <a href=\"mailto:buero@fundament-eg.de\" data-linktype=\"email\" data-val=\"buero@fundament-eg.de\">buero@fundament-eg.de</a></p>\r\n<p><strong>Vorstand:<span style=\"white-space: pre;\"> </span></strong><br>Ursula Diekmann<br>Lothar Reininger<br>J\u00fcrgen\u00a0Thau</p>\r\n<p><strong>Aufsichtsratsvorsitzender:<span style=\"white-space: pre;\"> </span></strong><br>Kai-Oliver\u00a0Tiffany</p>\r\n<p><strong>Pr\u00fcfungsverband:<span style=\"white-space: pre;\"> </span></strong><br>Pr\u00fcfungsverband der kleinen und mittelst\u00e4ndischen Genossenschaften e.V.<br>Boxhagener Stra\u00dfe 76,78<br>10245\u00a0Berlin</p>\r\n<p><strong>Registerangabe: </strong><span style=\"white-space: pre;\"> </span><br>Genossenschaftsregister Amtsgericht Frankfurt am Main Nr.\u00a0\u00a08204</p>\r\n<p><strong>Haftungsausschluss:\u00a0</strong><span style=\"white-space: pre;\"> </span><br>Trotz sorgf\u00e4ltiger inhaltlicher Kontrolle \u00fcbernehmen wir keine Haftung f\u00fcr die Inhalte externer Links. F\u00fcr den Inhalt der verlinkten Seiten sind ausschlie\u00dflich deren Betreiber\u00a0verantwortlich.\u00a0</p>\r\n<p><strong>Datenschutz:</strong><span style=\"white-space: pre;\"> </span><br>zur Datenschutzerkl\u00e4rung</p>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>",
+    "encoding": "utf-8"
+  },
+  "title": "Impressum",
+  "type_title": "Page",
+  "version": "current",
+  "versioning_enabled": true,
+  "workflow_history": {
+    "intranet_workflow": [
+      {
+        "action": null,
+        "actor": "admin",
+        "comments": "",
+        "review_state": "internal",
+        "time": "2026-02-14T20:58:17+00:00"
+      },
+      {
+        "action": "submit",
+        "actor": "admin",
+        "comments": "",
+        "review_state": "pending",
+        "time": "2026-02-14T21:08:53+00:00"
+      },
+      {
+        "action": "publish_externally",
+        "actor": "admin",
+        "comments": "",
+        "review_state": "external",
+        "time": "2026-02-14T21:08:57+00:00"
+      },
+      {
+        "action": null,
+        "actor": null,
+        "comments": "State remapped from control panel",
+        "review_state": "internal",
+        "time": "2026-02-14T23:36:41+00:00"
+      },
+      {
+        "action": "submit",
+        "actor": "admin",
+        "comments": "",
+        "review_state": "pending",
+        "time": "2026-02-14T23:37:43+00:00"
+      },
+      {
+        "action": "publish_externally",
+        "actor": "admin",
+        "comments": "",
+        "review_state": "external",
+        "time": "2026-02-14T23:38:17+00:00"
+      }
+    ]
+  },
+  "working_copy": null,
+  "working_copy_of": null
+}

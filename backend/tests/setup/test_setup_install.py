@@ -1,14 +1,14 @@
-from clasic import PACKAGE_NAME
+from Fundament import PACKAGE_NAME
 
 
 class TestSetupInstall:
     def test_addon_installed(self, installer):
-        """Test if clasic is installed."""
+        """Test if Fundament is installed."""
         assert installer.is_product_installed(PACKAGE_NAME) is True
 
     def test_browserlayer(self, browser_layers):
         """Test that IBrowserLayer is registered."""
-        from clasic.interfaces import IBrowserLayer
+        from Fundament.interfaces import IBrowserLayer
 
         assert IBrowserLayer in browser_layers
 

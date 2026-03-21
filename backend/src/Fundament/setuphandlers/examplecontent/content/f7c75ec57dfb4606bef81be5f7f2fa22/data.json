@@ -1,0 +1,88 @@
+{
+  "@id": "/mitglied-werden/herzlich-willkommen-bei-fundament",
+  "@type": "Document",
+  "UID": "f7c75ec57dfb4606bef81be5f7f2fa22",
+  "allow_discussion": null,
+  "changeNote": "",
+  "contributors": [],
+  "created": "2026-02-14T20:23:10+00:00",
+  "creators": [
+    "admin"
+  ],
+  "description": "Als Mitglied in unserer Genossenschaft Fundame nt Bauen Wohnen Leben unterst\u00fctzen Sie das gemeinschaftliche und genossenschaftliche Wohnen. Je mehr Menschen sich daf\u00fcr einsetzen, desto gr\u00f6\u00dfer werden ihre Chancen, dass sie in ihrer Stadt ein Projekt durchsetzen und Einfluss auf die Wohnungspolitik nehmen k\u00f6nnen.",
+  "effective": "2026-02-14T20:31:00+00:00",
+  "exclude_from_nav": false,
+  "expires": null,
+  "exportimport.constrains": {},
+  "exportimport.conversation": [],
+  "id": "herzlich-willkommen-bei-fundament",
+  "is_folderish": false,
+  "language": "##DEFAULT##",
+  "layout": "document_view",
+  "lock": {
+    "locked": false,
+    "stealable": true
+  },
+  "modified": "2026-02-14T20:35:41+00:00",
+  "review_state": "internal",
+  "rights": null,
+  "subjects": [],
+  "table_of_contents": false,
+  "text": {
+    "content-type": "text/html",
+    "data": "<p>Die F\u00f6rderung des gemeinschaftlichen und umweltbewussten Wohnens steht auf zwei\u00a0Beinen:</p>\r\n<ul>\r\n<li>Geldanlage: Wer von der Idee \u00fcberzeugt ist, kann Wohnprojekte \u00fcber Zinsbausteine f\u00f6rdern. Das hei\u00dft, Sie k\u00f6nnen Ihr Geld zu einem soliden Zinssatz bei Fundament anlegen und wissen, f\u00fcr welchen Zweck Ihr Geld verwendet\u00a0wird.</li>\r\n<li>Mitgestaltung: Die Baugenossenschaft Fundament bietet sich als Dach f\u00fcr Gruppen an, die neue Projekte des\u00a0 gemeinschaftlichen Wohnens angehen wollen. Sie\u00a0 unterst\u00fctzt die Gruppen mit\u00a0Know-how.</li>\r\n</ul>\r\n<h3>Wer kann\u00a0mitmachen?</h3>\r\n<ul>\r\n<li>Menschen, die solidarisch miteinander und f\u00fcreinander leben\u00a0wollen.</li>\r\n<li>Menschen, die \u00f6kologisch bauen oder sanieren bzw. renovieren wollen, aber alleine finanziell dazu nicht in der Lage\u00a0sind.</li>\r\n<li>Menschen, die sich in der \u00d6ffentlichkeit f\u00fcr eine sozial verantwortbare Wohnungsversorgung einsetzen\u00a0wollen.</li>\r\n<li>Menschen, die ihr Geld nachhaltig investieren wollen und daf\u00fcr bereit sind, auf hohe Renditen zu\u00a0verzichten.</li>\r\n<li>Menschen, die in Zukunft selbstbestimmt wohnen und leben\u00a0wollen.</li>\r\n</ul>\r\n<h3>Vorteile einer\u00a0Mitgliedschaft</h3>\r\n<ul>\r\n<li>Mitbestimmung und Mitwirkungsm\u00f6glichkeit bei den\u00a0Bauvorhaben</li>\r\n<li>Kommunikative, familienfreundliche und altengerechte Wohnformen statt\u00a0Vereinzelung</li>\r\n<li>Lebenslanges Wohnrecht in einer\u00a0Genossenschaftswohnung</li>\r\n<li>M\u00f6glichkeit, auf die Wohnungspolitik in der Stadt Einfluss zu\u00a0nehmen</li>\r\n<li>Fundament unterst\u00fctzt mit Know-how Projektgruppen, die sich neu gr\u00fcnden\u00a0wollen,</li>\r\n</ul>\r\n<p>Unsere Satzung und auch die Beitrittserkl\u00e4rung herunterladen finden Sie hier zum Download.</p>\r\n<p>Wenn Sie Kontakt mit uns aufnehmen m\u00f6chten, senden Sie uns bitte eine Nachricht \u00fcber unser Kontaktformular.</p>",
+    "encoding": "utf-8"
+  },
+  "title": "Herzlich willkommen bei Fundament!",
+  "type_title": "Page",
+  "version": "current",
+  "versioning_enabled": true,
+  "workflow_history": {
+    "intranet_workflow": [
+      {
+        "action": null,
+        "actor": "admin",
+        "comments": "",
+        "review_state": "internal",
+        "time": "2026-02-14T20:23:10+00:00"
+      },
+      {
+        "action": "hide",
+        "actor": "admin",
+        "comments": "",
+        "review_state": "private",
+        "time": "2026-02-14T20:31:42+00:00"
+      },
+      {
+        "action": "show_internally",
+        "actor": "admin",
+        "comments": "",
+        "review_state": "internal",
+        "time": "2026-02-14T20:31:56+00:00"
+      },
+      {
+        "action": "submit",
+        "actor": "admin",
+        "comments": "",
+        "review_state": "pending",
+        "time": "2026-02-14T20:35:27+00:00"
+      },
+      {
+        "action": "publish_externally",
+        "actor": "admin",
+        "comments": "",
+        "review_state": "external",
+        "time": "2026-02-14T20:35:41+00:00"
+      },
+      {
+        "action": null,
+        "actor": null,
+        "comments": "State remapped from control panel",
+        "review_state": "internal",
+        "time": "2026-02-14T23:36:41+00:00"
+      }
+    ]
+  },
+  "working_copy": null,
+  "working_copy_of": null
+}

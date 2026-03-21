@@ -1,7 +1,7 @@
 [project]
-name = "clasic"
+name = "Fundament"
 dynamic = ["version"]
-description = "Fundament-clasic-site"
+description = "Fundament-Fundament-site"
 readme = "README.md"
 license = "GPL-2.0-only"
 requires-python = ">=3.12"
@@ -28,6 +28,10 @@ dependencies = [
     "plone.classicui",
     "plone.app.caching",
     "z3c.jbot",
+    "collective.faq",
+    "Products.EasyNewsletter",
+    "plone.gallery",
+    "collective.contentrules.mailtogroup"
 ]
 
 [project.optional-dependencies]
@@ -41,10 +45,10 @@ test = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/collective/clasic"
-PyPI = "https://pypi.org/project/clasic"
-Source = "https://github.com/collective/clasic"
-Tracker = "https://github.com/collective/clasic/issues"
+Homepage = "https://github.com/jesse.grass/fundament"
+PyPI = "https://pypi.org/project/Fundament"
+Source = "https://github.com/jesse.grass/fundament"
+Tracker = "https://github.com/jesse.grass/fundament/issues"
 
 
 [project.entry-points."plone.autoinclude.plugin"]
@@ -54,7 +58,7 @@ target = "plone"
 managed = false
 
 [tool.hatch.version]
-path = "src/clasic/__init__.py"
+path = "src/Fundament/__init__.py"
 
 [build-system]
 requires = ["hatchling"]
@@ -69,7 +73,7 @@ exclude = [
 ]
 
 [tool.hatch.build.targets.wheel]
-packages = ["src/clasic"]
+packages = ["src/Fundament"]
 
 [tool.towncrier]
 directory = "news/"
@@ -77,7 +81,7 @@ filename = "CHANGELOG.md"
 start_string = "<!-- towncrier release notes start -->\n"
 title_format = "## {version} ({project_date})"
 template = "news/.changelog_template.jinja"
-issue_format = "[#{issue}](https://github.com/collective/clasic/issues/{issue})"
+issue_format = "[#{issue}](https://github.com/jesse.grass/fundament/issues/{issue})"
 underlines = ["", "", ""]
 
 [[tool.towncrier.type]]
@@ -174,9 +178,9 @@ ignore = [
 testpaths = ["tests"]
 
 [tool.coverage.run]
-source_pkgs = ["clasic", "tests"]
+source_pkgs = ["Fundament", "tests"]
 branch = true
 parallel = true
 omit = [
-  "src/clasic/locales/*.py",
+  "src/Fundament/locales/*.py",
 ]

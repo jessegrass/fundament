@@ -1,0 +1,68 @@
+{
+  "@id": "/newsletter/nu",
+  "@type": "Newsletter Issue",
+  "UID": "0b7653fefd3e4672889a455a26c21af5",
+  "allow_discussion": null,
+  "banner": {
+    "blob_path": "0b7653fefd3e4672889a455a26c21af5/banner/fun_header_neu.jpg",
+    "content-type": "image/jpeg",
+    "filename": "fun_header_neu.jpg",
+    "height": 200,
+    "size": 58991,
+    "width": 970
+  },
+  "changeNote": "",
+  "contributors": [],
+  "created": "2026-03-13T11:38:39+00:00",
+  "creators": [
+    "admin"
+  ],
+  "description": "",
+  "effective": null,
+  "epilogue": {
+    "content-type": "text/html",
+    "data": "<h1>Community Newsletter for Plone</h1>\r\n<p>{{unsubscribe}}</p>",
+    "encoding": "utf-8"
+  },
+  "exclude_all_subscribers": false,
+  "expires": null,
+  "exportimport.constrains": {},
+  "exportimport.conversation": [],
+  "hide_image": false,
+  "id": "nu",
+  "is_folderish": true,
+  "language": "##DEFAULT##",
+  "layout": "view",
+  "lock": {
+    "locked": false,
+    "stealable": true
+  },
+  "modified": "2026-03-13T11:40:21+00:00",
+  "output_template": "output_fundament",
+  "prologue": {
+    "content-type": "text/html",
+    "data": "<p>{{subscriber_salutation}}</p>",
+    "encoding": "utf-8"
+  },
+  "review_state": "draft",
+  "rights": null,
+  "subjects": [],
+  "text": null,
+  "title": "Nu",
+  "type_title": "Newsletter Issue",
+  "version": "current",
+  "versioning_enabled": true,
+  "workflow_history": {
+    "enl_issue_workflow": [
+      {
+        "action": null,
+        "actor": "admin",
+        "comments": "",
+        "review_state": "draft",
+        "time": "2026-03-13T11:38:39+00:00"
+      }
+    ]
+  },
+  "working_copy": null,
+  "working_copy_of": null
+}

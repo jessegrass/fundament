@@ -1,0 +1,98 @@
+{
+  "@id": "/ueber-fundament/wer-kann-mitmachen",
+  "@type": "Document",
+  "UID": "98df4cec69a34cfca928fc11ade7d197",
+  "allow_discussion": null,
+  "changeNote": "",
+  "contributors": [],
+  "created": "2026-02-14T19:19:23+00:00",
+  "creators": [
+    "admin"
+  ],
+  "description": "Menschen, die solidarisch miteinander und f\u00fcreinander leben\u00a0wollen.\r\nMenschen, die \u00f6kologisch bauen oder sanieren bzw. renovieren wollen, aber alleine finanziell dazu nicht in der Lage\u00a0sind.\r\nMenschen, die gerne mit anpacken bei Planung, Organisation und beim Bau der Wohnungen bzw. bei deren\u00a0Innenausbau.\r\nMenschen, die ihr Geld nachhaltig investieren wollen und daf\u00fcr bereit sind, auf hohe Renditen zu\u00a0verzichten.\r\nMenschen, die in Zukunft anders wohnen und leben wollen.",
+  "effective": "2026-02-14T20:31:00+00:00",
+  "exclude_from_nav": true,
+  "expires": null,
+  "exportimport.constrains": {},
+  "exportimport.conversation": [],
+  "id": "wer-kann-mitmachen",
+  "is_folderish": false,
+  "language": "##DEFAULT##",
+  "layout": "document_view",
+  "lock": {
+    "locked": false,
+    "stealable": true
+  },
+  "modified": "2026-03-06T13:22:11+00:00",
+  "review_state": "external",
+  "rights": null,
+  "subjects": [],
+  "table_of_contents": false,
+  "text": null,
+  "title": "Wer kann mitmachen?",
+  "type_title": "Page",
+  "version": "current",
+  "versioning_enabled": true,
+  "workflow_history": {
+    "intranet_workflow": [
+      {
+        "action": null,
+        "actor": "admin",
+        "comments": "",
+        "review_state": "internal",
+        "time": "2026-02-14T19:19:23+00:00"
+      },
+      {
+        "action": "hide",
+        "actor": "admin",
+        "comments": "",
+        "review_state": "private",
+        "time": "2026-02-14T20:31:42+00:00"
+      },
+      {
+        "action": "show_internally",
+        "actor": "admin",
+        "comments": "",
+        "review_state": "internal",
+        "time": "2026-02-14T20:31:55+00:00"
+      },
+      {
+        "action": "submit",
+        "actor": "admin",
+        "comments": "",
+        "review_state": "pending",
+        "time": "2026-02-14T20:35:27+00:00"
+      },
+      {
+        "action": "publish_externally",
+        "actor": "admin",
+        "comments": "",
+        "review_state": "external",
+        "time": "2026-02-14T20:35:41+00:00"
+      },
+      {
+        "action": null,
+        "actor": null,
+        "comments": "State remapped from control panel",
+        "review_state": "internal",
+        "time": "2026-02-14T23:36:41+00:00"
+      },
+      {
+        "action": "submit",
+        "actor": "admin",
+        "comments": "",
+        "review_state": "pending",
+        "time": "2026-03-06T13:21:57+00:00"
+      },
+      {
+        "action": "publish_externally",
+        "actor": "admin",
+        "comments": "",
+        "review_state": "external",
+        "time": "2026-03-06T13:22:11+00:00"
+      }
+    ]
+  },
+  "working_copy": null,
+  "working_copy_of": null
+}

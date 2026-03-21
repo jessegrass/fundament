@@ -1,0 +1,40 @@
+{
+  "@id": "/bilder/balkone2og.jpg",
+  "@type": "Image",
+  "UID": "c170460431114ac392c54c6affed3b84",
+  "allow_discussion": null,
+  "contributors": [],
+  "created": "2026-03-07T22:15:36+00:00",
+  "creators": [
+    "admin"
+  ],
+  "description": "",
+  "effective": null,
+  "exclude_from_nav": false,
+  "expires": null,
+  "exportimport.constrains": {},
+  "exportimport.conversation": [],
+  "id": "balkone2og.jpg",
+  "image": {
+    "blob_path": "c170460431114ac392c54c6affed3b84/image/balkone2og.jpg",
+    "content-type": "image/jpeg",
+    "filename": "balkone2og.jpg",
+    "height": 750,
+    "size": 288335,
+    "width": 1000
+  },
+  "is_folderish": false,
+  "language": "##DEFAULT##",
+  "layout": "image_view",
+  "lock": {},
+  "modified": "2026-03-07T22:15:36+00:00",
+  "review_state": null,
+  "rights": "",
+  "subjects": [],
+  "title": "balkone2og.jpg",
+  "type_title": "Image",
+  "version": "current",
+  "workflow_history": {},
+  "working_copy": null,
+  "working_copy_of": null
+}

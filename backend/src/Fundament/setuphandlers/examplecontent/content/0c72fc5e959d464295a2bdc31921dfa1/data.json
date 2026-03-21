@@ -1,0 +1,84 @@
+{
+  "@id": "/newsletter",
+  "@type": "Newsletter",
+  "UID": "0c72fc5e959d464295a2bdc31921dfa1",
+  "allow_discussion": null,
+  "banner": null,
+  "changeNote": "",
+  "contributors": [],
+  "created": "2026-03-13T11:38:30+00:00",
+  "creators": [
+    "admin"
+  ],
+  "default_epilogue": {
+    "content-type": "text/html",
+    "data": "<h1>Community Newsletter for Plone</h1>\r\n<p>{{unsubscribe}}</p>",
+    "encoding": "utf-8"
+  },
+  "default_prologue": {
+    "content-type": "text/html",
+    "data": "<p>{{subscriber_salutation}}</p>",
+    "encoding": "utf-8"
+  },
+  "description": "Ab und an was neues von Fundament",
+  "effective": null,
+  "exclude_all_subscribers": false,
+  "exclude_from_nav": false,
+  "expires": null,
+  "exportimport.constrains": {},
+  "exportimport.conversation": [],
+  "fullname_fallback": "Sir or Madam",
+  "id": "newsletter",
+  "is_folderish": true,
+  "language": "##DEFAULT##",
+  "layout": "view",
+  "lock": {
+    "created": "2026-03-13T11:39:03+00:00",
+    "creator": "admin",
+    "creator_name": "admin",
+    "creator_url": "http://nohost/Plone/author/admin",
+    "locked": true,
+    "name": "plone.locking.stealable",
+    "stealable": true,
+    "time": 1773401943.137704,
+    "timeout": 600,
+    "token": "0.4650852046722317-0.1770569094204184-00105A989226:1773401943.138"
+  },
+  "logo": null,
+  "modified": "2026-03-13T11:38:39+00:00",
+  "output_template": "output_fundament",
+  "plone_receiver_groups": [],
+  "plone_receiver_members": [],
+  "review_state": "internal",
+  "rights": null,
+  "salutations": [
+    "mr|Dear Mr.",
+    "ms|Dear Ms.",
+    "default|Dear"
+  ],
+  "sender_email": "vorstand@fundament-eg.de",
+  "sender_name": "Fundament e.G.",
+  "subjects": [],
+  "subscriber_confirmation_mail_subject": "Confirm your subscription on ${portal_url}",
+  "subscriber_confirmation_mail_text": "You subscribe to the ${newsletter_title}.\r\n\r\n\r\nYour registered email is: ${subscriber_email}\r\n\r\nPlease click on the link to confirm your subscription: \r\n\r\n${confirmation_url}",
+  "test_email": "kai@link-f.org",
+  "text": null,
+  "title": "Newsletter",
+  "type_title": "Newsletter",
+  "unsubscribe_string": "Click here to unsubscribe",
+  "version": "current",
+  "versioning_enabled": true,
+  "workflow_history": {
+    "intranet_workflow": [
+      {
+        "action": null,
+        "actor": "admin",
+        "comments": "",
+        "review_state": "internal",
+        "time": "2026-03-13T11:38:30+00:00"
+      }
+    ]
+  },
+  "working_copy": null,
+  "working_copy_of": null
+}

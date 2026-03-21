@@ -1,0 +1,40 @@
+{
+  "@id": "/bilder/infoboerse2013.jpg",
+  "@type": "Image",
+  "UID": "20c92e43d50c4361b8e38192f508ae82",
+  "allow_discussion": null,
+  "contributors": [],
+  "created": "2026-03-07T22:15:32+00:00",
+  "creators": [
+    "admin"
+  ],
+  "description": "",
+  "effective": null,
+  "exclude_from_nav": false,
+  "expires": null,
+  "exportimport.constrains": {},
+  "exportimport.conversation": [],
+  "id": "infoboerse2013.jpg",
+  "image": {
+    "blob_path": "20c92e43d50c4361b8e38192f508ae82/image/infoboerse2013.JPG",
+    "content-type": "image/jpeg",
+    "filename": "infoboerse2013.JPG",
+    "height": 2016,
+    "size": 1652258,
+    "width": 3584
+  },
+  "is_folderish": false,
+  "language": "##DEFAULT##",
+  "layout": "image_view",
+  "lock": {},
+  "modified": "2026-03-07T22:15:32+00:00",
+  "review_state": null,
+  "rights": "",
+  "subjects": [],
+  "title": "infoboerse2013.JPG",
+  "type_title": "Image",
+  "version": "current",
+  "workflow_history": {},
+  "working_copy": null,
+  "working_copy_of": null
+}

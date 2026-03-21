@@ -1,0 +1,40 @@
+{
+  "@id": "/bilder/20181202_115240_0.jpg",
+  "@type": "Image",
+  "UID": "a7e07c5c57c54885bf8150f7bc977767",
+  "allow_discussion": null,
+  "contributors": [],
+  "created": "2026-03-07T22:15:47+00:00",
+  "creators": [
+    "admin"
+  ],
+  "description": "",
+  "effective": null,
+  "exclude_from_nav": false,
+  "expires": null,
+  "exportimport.constrains": {},
+  "exportimport.conversation": [],
+  "id": "20181202_115240_0.jpg",
+  "image": {
+    "blob_path": "a7e07c5c57c54885bf8150f7bc977767/image/20181202_115240_0.jpg",
+    "content-type": "image/jpeg",
+    "filename": "20181202_115240_0.jpg",
+    "height": 1200,
+    "size": 133445,
+    "width": 900
+  },
+  "is_folderish": false,
+  "language": "##DEFAULT##",
+  "layout": "image_view",
+  "lock": {},
+  "modified": "2026-03-07T22:15:47+00:00",
+  "review_state": null,
+  "rights": "",
+  "subjects": [],
+  "title": "20181202_115240_0.jpg",
+  "type_title": "Image",
+  "version": "current",
+  "workflow_history": {},
+  "working_copy": null,
+  "working_copy_of": null
+}

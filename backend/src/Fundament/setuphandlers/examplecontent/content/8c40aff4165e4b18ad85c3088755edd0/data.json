@@ -1,0 +1,138 @@
+{
+  "@id": "/mitgliederbereich/gremien/aufsichtsrat",
+  "@type": "Folder",
+  "UID": "8c40aff4165e4b18ad85c3088755edd0",
+  "allow_discussion": null,
+  "contributors": [],
+  "created": "2026-02-08T20:34:04+00:00",
+  "creators": [
+    "admin"
+  ],
+  "description": "Der Aufsichtsrat unserer Genossenschaft.",
+  "effective": "2026-02-08T20:35:00+00:00",
+  "exclude_from_nav": false,
+  "expires": null,
+  "exportimport.constrains": {},
+  "exportimport.conversation": [],
+  "id": "aufsichtsrat",
+  "is_folderish": true,
+  "language": "##DEFAULT##",
+  "layout": "listing_view",
+  "lock": {},
+  "modified": "2026-03-03T17:50:42+00:00",
+  "nextPreviousEnabled": false,
+  "review_state": "external",
+  "rights": null,
+  "subjects": [],
+  "title": "Aufsichtsrat",
+  "type_title": "Folder",
+  "version": "current",
+  "workflow_history": {
+    "intranet_folder_workflow": [
+      {
+        "action": null,
+        "actor": null,
+        "comments": "State remapped from control panel",
+        "review_state": "private",
+        "time": "2026-02-14T02:15:10+00:00"
+      },
+      {
+        "action": "show_internally",
+        "actor": "admin",
+        "comments": "",
+        "review_state": "internal",
+        "time": "2026-02-14T20:31:56+00:00"
+      }
+    ],
+    "intranet_workflow": [
+      {
+        "action": null,
+        "actor": null,
+        "comments": "State remapped from control panel",
+        "review_state": "internal",
+        "time": "2026-02-08T20:36:10+00:00"
+      },
+      {
+        "action": "publish_internally",
+        "actor": "admin",
+        "comments": "",
+        "review_state": "internally_published",
+        "time": "2026-02-08T20:38:40+00:00"
+      },
+      {
+        "action": "retract",
+        "actor": "admin",
+        "comments": "",
+        "review_state": "internal",
+        "time": "2026-02-14T02:03:05+00:00"
+      },
+      {
+        "action": "hide",
+        "actor": "admin",
+        "comments": "",
+        "review_state": "private",
+        "time": "2026-02-14T02:12:00+00:00"
+      },
+      {
+        "action": null,
+        "actor": null,
+        "comments": "State remapped from control panel",
+        "review_state": "internal",
+        "time": "2026-02-14T20:35:06+00:00"
+      },
+      {
+        "action": "submit",
+        "actor": "admin",
+        "comments": "",
+        "review_state": "pending",
+        "time": "2026-02-14T20:35:27+00:00"
+      },
+      {
+        "action": "publish_externally",
+        "actor": "admin",
+        "comments": "",
+        "review_state": "external",
+        "time": "2026-02-14T20:35:41+00:00"
+      },
+      {
+        "action": "retract",
+        "actor": "admin",
+        "comments": "",
+        "review_state": "internal",
+        "time": "2026-02-14T20:48:21+00:00"
+      },
+      {
+        "action": "submit",
+        "actor": "admin",
+        "comments": "",
+        "review_state": "pending",
+        "time": "2026-02-14T20:49:00+00:00"
+      },
+      {
+        "action": "publish_externally",
+        "actor": "admin",
+        "comments": "",
+        "review_state": "external",
+        "time": "2026-02-14T20:49:19+00:00"
+      }
+    ],
+    "simple_publication_workflow": [
+      {
+        "action": null,
+        "actor": "admin",
+        "comments": "",
+        "review_state": "private",
+        "time": "2026-02-08T20:34:04+00:00"
+      },
+      {
+        "action": "publish",
+        "actor": "admin",
+        "comments": "",
+        "review_state": "published",
+        "time": "2026-02-08T20:35:03+00:00"
+      }
+    ]
+  },
+  "working_copy": null,
+  "working_copy_of": null
+}

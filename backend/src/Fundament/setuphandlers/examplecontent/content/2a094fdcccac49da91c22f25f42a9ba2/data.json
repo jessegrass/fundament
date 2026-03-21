@@ -1,0 +1,92 @@
+{
+  "@id": "/projekte/heidestrasse/fundament-hat-ein-drittes-haus",
+  "@type": "News Item",
+  "UID": "2a094fdcccac49da91c22f25f42a9ba2",
+  "allow_discussion": null,
+  "changeNote": "",
+  "contributors": [],
+  "created": "2026-02-14T20:07:25+00:00",
+  "creators": [
+    "admin"
+  ],
+  "description": "Seit 2025 ist Fundament eG als Besitzerin des Hauses Heidestra\u00dfe 74 im Grundbuch eingetragen.",
+  "effective": "2026-02-14T20:31:00+00:00",
+  "exclude_from_nav": true,
+  "expires": null,
+  "exportimport.constrains": {},
+  "exportimport.conversation": [],
+  "id": "fundament-hat-ein-drittes-haus",
+  "image": null,
+  "image_caption": null,
+  "is_folderish": false,
+  "language": "##DEFAULT##",
+  "layout": "newsitem_view",
+  "lock": {
+    "locked": false,
+    "stealable": true
+  },
+  "modified": "2026-02-14T20:35:41+00:00",
+  "review_state": "internal",
+  "rights": null,
+  "subjects": [
+    "Projekt",
+    "Heidestra\u00dfe"
+  ],
+  "text": {
+    "content-type": "text/html",
+    "data": "<div>Das Haus ist aus dem Jahr 1910 und hat drei 2-Zimmer-Wohnungen und drei 1-Zimmer-Wohnungen, die alle bewohnt sind. Die Vorbesitzerin hat sich bei der\u00a0<span class=\"caps\">GIMA</span> Frankfurt - Genossenschaftliche Immobilienagentur gemeldet und wollte ihr Haus an ein am Gemeinwohl orientiertes Unternehmen verkaufen. Fundment ist Mitglied in der <span class=\"caps\">GIMA</span> und konnte mit dem Kredit f\u00fcr das gescheiterte Projekt Gellertstra\u00dfe das Haus kaufen und vollst\u00e4ndig finanzieren.</div>\r\n<div>Dieses Haus wurde dem spekulationsgetriebenen Immobilienmarkt entzogen.</div>\r\n<div>Die Mieter:innen konnten in ihren Wohnungen bleiben, die Mietvertr\u00e4ge wurden \u00fcbernommen.</div>\r\n<div>Der Kredit f\u00fcr die Gellertstra\u00dfe mit relativ g\u00fcnstigen Konditionen musste nicht gegen Zahlung einer Nichtabnahmeentsch\u00e4digung zur\u00fcckgegeben werden. Stattdessen konnte er nach Begutachtung der Immobilie durch die Bank vollst\u00e4ndig \u00fcbertragen werden.</div>\r\n<div>Der Kaufpreis war - auch gem\u00e4\u00df Gutachter - relativ g\u00fcnstig.</div>",
+    "encoding": "utf-8"
+  },
+  "title": "Fundament hat ein drittes Haus",
+  "type_title": "News Item",
+  "version": "current",
+  "versioning_enabled": true,
+  "workflow_history": {
+    "intranet_workflow": [
+      {
+        "action": null,
+        "actor": "admin",
+        "comments": "",
+        "review_state": "internal",
+        "time": "2026-02-14T20:07:25+00:00"
+      },
+      {
+        "action": "hide",
+        "actor": "admin",
+        "comments": "",
+        "review_state": "private",
+        "time": "2026-02-14T20:31:42+00:00"
+      },
+      {
+        "action": "show_internally",
+        "actor": "admin",
+        "comments": "",
+        "review_state": "internal",
+        "time": "2026-02-14T20:31:56+00:00"
+      },
+      {
+        "action": "submit",
+        "actor": "admin",
+        "comments": "",
+        "review_state": "pending",
+        "time": "2026-02-14T20:35:27+00:00"
+      },
+      {
+        "action": "publish_externally",
+        "actor": "admin",
+        "comments": "",
+        "review_state": "external",
+        "time": "2026-02-14T20:35:41+00:00"
+      },
+      {
+        "action": null,
+        "actor": null,
+        "comments": "State remapped from control panel",
+        "review_state": "internal",
+        "time": "2026-02-14T23:36:41+00:00"
+      }
+    ]
+  },
+  "working_copy": null,
+  "working_copy_of": null
+}

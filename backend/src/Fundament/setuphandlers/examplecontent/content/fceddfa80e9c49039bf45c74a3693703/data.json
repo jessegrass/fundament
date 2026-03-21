@@ -1,0 +1,82 @@
+{
+  "@id": "/projekte/alt-aber-nicht-kalt",
+  "@type": "Folder",
+  "UID": "fceddfa80e9c49039bf45c74a3693703",
+  "allow_discussion": null,
+  "contributors": [],
+  "created": "2026-02-14T20:03:24+00:00",
+  "creators": [
+    "admin"
+  ],
+  "description": "Die Generation der Vierziger sieht sich noch im Wartestand und will einstweilen mit ihrer Einlage in die Genossenschaft diese unterst\u00fctzen.",
+  "effective": "2026-02-14T20:31:00+00:00",
+  "exclude_from_nav": false,
+  "expires": null,
+  "exportimport.constrains": {},
+  "exportimport.conversation": [],
+  "id": "alt-aber-nicht-kalt",
+  "is_folderish": true,
+  "language": "##DEFAULT##",
+  "layout": "listing_view",
+  "lock": {},
+  "modified": "2026-02-14T20:35:41+00:00",
+  "nextPreviousEnabled": false,
+  "review_state": "external",
+  "rights": null,
+  "subjects": [
+    "Projekt"
+  ],
+  "title": "Alt, aber nicht kalt",
+  "type_title": "Folder",
+  "version": "current",
+  "workflow_history": {
+    "intranet_folder_workflow": [
+      {
+        "action": null,
+        "actor": "admin",
+        "comments": "",
+        "review_state": "internal",
+        "time": "2026-02-14T20:03:24+00:00"
+      },
+      {
+        "action": "hide",
+        "actor": "admin",
+        "comments": "",
+        "review_state": "private",
+        "time": "2026-02-14T20:31:42+00:00"
+      },
+      {
+        "action": "show_internally",
+        "actor": "admin",
+        "comments": "",
+        "review_state": "internal",
+        "time": "2026-02-14T20:31:56+00:00"
+      }
+    ],
+    "intranet_workflow": [
+      {
+        "action": null,
+        "actor": null,
+        "comments": "State remapped from control panel",
+        "review_state": "internal",
+        "time": "2026-02-14T20:35:06+00:00"
+      },
+      {
+        "action": "submit",
+        "actor": "admin",
+        "comments": "",
+        "review_state": "pending",
+        "time": "2026-02-14T20:35:27+00:00"
+      },
+      {
+        "action": "publish_externally",
+        "actor": "admin",
+        "comments": "",
+        "review_state": "external",
+        "time": "2026-02-14T20:35:41+00:00"
+      }
+    ]
+  },
+  "working_copy": null,
+  "working_copy_of": null
+}

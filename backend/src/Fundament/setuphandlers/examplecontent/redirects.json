@@ -1,0 +1,11 @@
+{
+  "/Plone/Members": "/Plone/mitgliederbereich/Members",
+  "/fundament/gruppen": "/fundament/mitgliederbereich/gremien",
+  "/fundament/gruppen/aufsichtsrat": "/fundament/mitgliederbereich/gremien/aufsichtsrat",
+  "/fundament/haeufig-gestellte-fragen": "/fundament/faq",
+  "/fundament/haeufig-gestellte-fragen/fuer-wen-ist-die-baugenossenschaft-von-interesse": "/fundament/faq/fuer-wen-ist-die-baugenossenschaft-von-interesse",
+  "/fundament/haeufig-gestellte-fragen/gibt-es-eine-nachschusspflicht": "/fundament/faq/gibt-es-eine-nachschusspflicht",
+  "/fundament/mitgliederbereich/gruppen": "/fundament/mitgliederbereich/gremien",
+  "/fundament/mitgliederbereich/gruppen/aufsichtsrat": "/fundament/mitgliederbereich/gremien/aufsichtsrat",
+  "/fundament/projekte/naxos/gruppentreffen": "/fundament/projekte/naxos/intern/gruppentreffen"
+}

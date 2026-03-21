@@ -1,0 +1,66 @@
+{
+  "@id": "/faq/gibt-es-eine-warteliste-fuer-die-wohnungen",
+  "@type": "FAQ Item",
+  "UID": "7312e33d374a44b78ba06da1449756b4",
+  "allow_discussion": null,
+  "answer": {
+    "content-type": "text/html",
+    "data": "<p>Nein, wir f\u00fchren keine Wartelisten. Sobald eine Wohnung in einem unserer <a href=\"../resolveuid/b0a0d1a5c9604cd191c0a01a6ab2b6ab\" data-linktype=\"internal\" data-val=\"b0a0d1a5c9604cd191c0a01a6ab2b6ab\">Wohnprojekte</a> frei wird, schreiben wir diese zun\u00e4chst intern f\u00fcr unsere Mitglieder aus. Sollte sie innerhalb einer bestimmten Frist nicht vermietet werden, k\u00f6nnen sich auch Nicht-Mitglieder auf die Wohnung bewerben.</p>",
+    "encoding": "utf-8"
+  },
+  "changeNote": "",
+  "created": "2026-02-14T20:16:48+00:00",
+  "detailed_question": null,
+  "exclude_from_nav": false,
+  "exportimport.constrains": {},
+  "exportimport.conversation": [],
+  "id": "gibt-es-eine-warteliste-fuer-die-wohnungen",
+  "is_folderish": false,
+  "language": "##DEFAULT##",
+  "layout": "view",
+  "lock": {
+    "locked": false,
+    "stealable": true
+  },
+  "modified": "2026-02-14T23:38:17+00:00",
+  "review_state": "external",
+  "table_of_contents": false,
+  "title": "Gibt es eine Warteliste f\u00fcr die Wohnungen?",
+  "type_title": "FAQ Item",
+  "version": "current",
+  "versioning_enabled": true,
+  "workflow_history": {
+    "intranet_workflow": [
+      {
+        "action": null,
+        "actor": "admin",
+        "comments": "",
+        "review_state": "internal",
+        "time": "2026-02-14T20:16:48+00:00"
+      },
+      {
+        "action": null,
+        "actor": null,
+        "comments": "State remapped from control panel",
+        "review_state": "internal",
+        "time": "2026-02-14T23:36:41+00:00"
+      },
+      {
+        "action": "submit",
+        "actor": "admin",
+        "comments": "",
+        "review_state": "pending",
+        "time": "2026-02-14T23:37:43+00:00"
+      },
+      {
+        "action": "publish_externally",
+        "actor": "admin",
+        "comments": "",
+        "review_state": "external",
+        "time": "2026-02-14T23:38:17+00:00"
+      }
+    ]
+  },
+  "working_copy": null,
+  "working_copy_of": null
+}

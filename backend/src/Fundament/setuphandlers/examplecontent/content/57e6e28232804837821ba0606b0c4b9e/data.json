@@ -1,0 +1,40 @@
+{
+  "@id": "/bilder/projekttag-plakate-klein.jpg",
+  "@type": "Image",
+  "UID": "57e6e28232804837821ba0606b0c4b9e",
+  "allow_discussion": null,
+  "contributors": [],
+  "created": "2026-03-07T22:16:10+00:00",
+  "creators": [
+    "admin"
+  ],
+  "description": "",
+  "effective": null,
+  "exclude_from_nav": false,
+  "expires": null,
+  "exportimport.constrains": {},
+  "exportimport.conversation": [],
+  "id": "projekttag-plakate-klein.jpg",
+  "image": {
+    "blob_path": "57e6e28232804837821ba0606b0c4b9e/image/projekttag-plakate-klein.jpg",
+    "content-type": "image/jpeg",
+    "filename": "projekttag-plakate-klein.jpg",
+    "height": 281,
+    "size": 33773,
+    "width": 610
+  },
+  "is_folderish": false,
+  "language": "##DEFAULT##",
+  "layout": "image_view",
+  "lock": {},
+  "modified": "2026-03-07T22:16:10+00:00",
+  "review_state": null,
+  "rights": "",
+  "subjects": [],
+  "title": "projekttag-plakate-klein.jpg",
+  "type_title": "Image",
+  "version": "current",
+  "workflow_history": {},
+  "working_copy": null,
+  "working_copy_of": null
+}

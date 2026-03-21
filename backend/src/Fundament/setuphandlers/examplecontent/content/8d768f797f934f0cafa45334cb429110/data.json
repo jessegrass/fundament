@@ -1,0 +1,40 @@
+{
+  "@id": "/bilder/tram-linie-18-2011-ffm-026-a.jpg",
+  "@type": "Image",
+  "UID": "8d768f797f934f0cafa45334cb429110",
+  "allow_discussion": null,
+  "contributors": [],
+  "created": "2026-03-07T22:15:47+00:00",
+  "creators": [
+    "admin"
+  ],
+  "description": "",
+  "effective": null,
+  "exclude_from_nav": false,
+  "expires": null,
+  "exportimport.constrains": {},
+  "exportimport.conversation": [],
+  "id": "tram-linie-18-2011-ffm-026-a.jpg",
+  "image": {
+    "blob_path": "8d768f797f934f0cafa45334cb429110/image/tram-linie-18-2011-ffm-026-a.jpg",
+    "content-type": "image/jpeg",
+    "filename": "tram-linie-18-2011-ffm-026-a.jpg",
+    "height": 900,
+    "size": 133821,
+    "width": 1200
+  },
+  "is_folderish": false,
+  "language": "##DEFAULT##",
+  "layout": "image_view",
+  "lock": {},
+  "modified": "2026-03-07T22:15:47+00:00",
+  "review_state": null,
+  "rights": "",
+  "subjects": [],
+  "title": "tram-linie-18-2011-ffm-026-a.jpg",
+  "type_title": "Image",
+  "version": "current",
+  "workflow_history": {},
+  "working_copy": null,
+  "working_copy_of": null
+}

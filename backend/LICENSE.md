@@ -1,4 +1,4 @@
-clasic Copyright 2026, Kai-Oli
+Fundament Copyright 2026, Kai-Oli
 
 This program is free software; you can redistribute it and/or
 modify it under the terms of the GNU General Public License version 2

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<registry xmlns:i18n="http://xml.zope.org/namespaces/i18n"
+          i18n:domain="Fundament"
+>
+
+  <record name="Products.EasyNewsletter.output_templates">
+    <field type="plone.registry.field.Dict">
+      <title>ENL Output templates</title>
+      <key_type type="plone.registry.field.TextLine" />
+      <value_type type="plone.registry.field.TextLine" />
+    </field>
+    <value>
+      <element key="output_default">Default output template</element>
+      <element key="output_blacksea">Blacksea output template</element>
+      <element key="output_fundament">Fundament Template</element>
+
+    </value>
+  </record>
+
+
+</registry>

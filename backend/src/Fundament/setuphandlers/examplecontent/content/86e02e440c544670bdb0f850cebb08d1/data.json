@@ -1,0 +1,40 @@
+{
+  "@id": "/bilder/naxos_05_grusswort.jpg",
+  "@type": "Image",
+  "UID": "86e02e440c544670bdb0f850cebb08d1",
+  "allow_discussion": null,
+  "contributors": [],
+  "created": "2026-03-07T22:15:34+00:00",
+  "creators": [
+    "admin"
+  ],
+  "description": "",
+  "effective": null,
+  "exclude_from_nav": false,
+  "expires": null,
+  "exportimport.constrains": {},
+  "exportimport.conversation": [],
+  "id": "naxos_05_grusswort.jpg",
+  "image": {
+    "blob_path": "86e02e440c544670bdb0f850cebb08d1/image/naxos_05_grusswort.jpg",
+    "content-type": "image/jpeg",
+    "filename": "naxos_05_grusswort.jpg",
+    "height": 750,
+    "size": 335042,
+    "width": 1000
+  },
+  "is_folderish": false,
+  "language": "##DEFAULT##",
+  "layout": "image_view",
+  "lock": {},
+  "modified": "2026-03-07T22:15:34+00:00",
+  "review_state": null,
+  "rights": "",
+  "subjects": [],
+  "title": "naxos_05_grusswort.jpg",
+  "type_title": "Image",
+  "version": "current",
+  "workflow_history": {},
+  "working_copy": null,
+  "working_copy_of": null
+}

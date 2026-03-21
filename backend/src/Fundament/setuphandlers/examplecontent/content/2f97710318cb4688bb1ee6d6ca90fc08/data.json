@@ -1,0 +1,53 @@
+{
+  "@id": "/mitgliederbereich/bilder",
+  "@type": "Folder",
+  "UID": "2f97710318cb4688bb1ee6d6ca90fc08",
+  "allow_discussion": null,
+  "contributors": [],
+  "created": "2026-02-14T21:40:56+00:00",
+  "creators": [
+    "admin"
+  ],
+  "description": "",
+  "effective": null,
+  "exclude_from_nav": false,
+  "expires": null,
+  "exportimport.constrains": {
+    "immediately_addable_types": [
+      "Folder",
+      "Image"
+    ],
+    "locally_allowed_types": [
+      "Folder",
+      "File",
+      "Image"
+    ]
+  },
+  "exportimport.conversation": [],
+  "id": "bilder",
+  "is_folderish": true,
+  "language": "##DEFAULT##",
+  "layout": "album_view",
+  "lock": {},
+  "modified": "2026-02-14T21:44:03+00:00",
+  "nextPreviousEnabled": false,
+  "review_state": "internal",
+  "rights": null,
+  "subjects": [],
+  "title": "Bilder",
+  "type_title": "Folder",
+  "version": "current",
+  "workflow_history": {
+    "intranet_workflow": [
+      {
+        "action": null,
+        "actor": "admin",
+        "comments": "",
+        "review_state": "internal",
+        "time": "2026-02-14T21:40:56+00:00"
+      }
+    ]
+  },
+  "working_copy": null,
+  "working_copy_of": null
+}

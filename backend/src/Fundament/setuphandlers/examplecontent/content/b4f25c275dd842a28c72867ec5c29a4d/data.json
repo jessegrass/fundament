@@ -1,0 +1,40 @@
+{
+  "@id": "/bilder/versuch.jpeg",
+  "@type": "Image",
+  "UID": "b4f25c275dd842a28c72867ec5c29a4d",
+  "allow_discussion": null,
+  "contributors": [],
+  "created": "2026-03-07T22:15:40+00:00",
+  "creators": [
+    "admin"
+  ],
+  "description": "",
+  "effective": null,
+  "exclude_from_nav": false,
+  "expires": null,
+  "exportimport.constrains": {},
+  "exportimport.conversation": [],
+  "id": "versuch.jpeg",
+  "image": {
+    "blob_path": "b4f25c275dd842a28c72867ec5c29a4d/image/versuch.jpeg",
+    "content-type": "image/jpeg",
+    "filename": "versuch.jpeg",
+    "height": 750,
+    "size": 205159,
+    "width": 1000
+  },
+  "is_folderish": false,
+  "language": "##DEFAULT##",
+  "layout": "image_view",
+  "lock": {},
+  "modified": "2026-03-07T22:15:40+00:00",
+  "review_state": null,
+  "rights": "",
+  "subjects": [],
+  "title": "versuch.jpeg",
+  "type_title": "Image",
+  "version": "current",
+  "workflow_history": {},
+  "working_copy": null,
+  "working_copy_of": null
+}

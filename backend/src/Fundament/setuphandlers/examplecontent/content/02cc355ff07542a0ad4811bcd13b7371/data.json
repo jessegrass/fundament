@@ -1,0 +1,40 @@
+{
+  "@id": "/bilder/2019_weihnachtsmarkt.png",
+  "@type": "Image",
+  "UID": "02cc355ff07542a0ad4811bcd13b7371",
+  "allow_discussion": null,
+  "contributors": [],
+  "created": "2026-03-07T22:15:42+00:00",
+  "creators": [
+    "admin"
+  ],
+  "description": "",
+  "effective": null,
+  "exclude_from_nav": false,
+  "expires": null,
+  "exportimport.constrains": {},
+  "exportimport.conversation": [],
+  "id": "2019_weihnachtsmarkt.png",
+  "image": {
+    "blob_path": "02cc355ff07542a0ad4811bcd13b7371/image/2019_weihnachtsmarkt.png",
+    "content-type": "image/png",
+    "filename": "2019_weihnachtsmarkt.png",
+    "height": 375,
+    "size": 178953,
+    "width": 790
+  },
+  "is_folderish": false,
+  "language": "##DEFAULT##",
+  "layout": "image_view",
+  "lock": {},
+  "modified": "2026-03-07T22:15:42+00:00",
+  "review_state": null,
+  "rights": "",
+  "subjects": [],
+  "title": "2019_weihnachtsmarkt.png",
+  "type_title": "Image",
+  "version": "current",
+  "workflow_history": {},
+  "working_copy": null,
+  "working_copy_of": null
+}

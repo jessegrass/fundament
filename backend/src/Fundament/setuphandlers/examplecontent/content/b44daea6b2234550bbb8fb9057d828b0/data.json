@@ -1,0 +1,40 @@
+{
+  "@id": "/bilder/netzwerk_logo.png",
+  "@type": "Image",
+  "UID": "b44daea6b2234550bbb8fb9057d828b0",
+  "allow_discussion": null,
+  "contributors": [],
+  "created": "2026-03-07T22:16:09+00:00",
+  "creators": [
+    "admin"
+  ],
+  "description": "",
+  "effective": null,
+  "exclude_from_nav": false,
+  "expires": null,
+  "exportimport.constrains": {},
+  "exportimport.conversation": [],
+  "id": "netzwerk_logo.png",
+  "image": {
+    "blob_path": "b44daea6b2234550bbb8fb9057d828b0/image/netzwerk_logo.png",
+    "content-type": "image/png",
+    "filename": "netzwerk_logo.png",
+    "height": 326,
+    "size": 34826,
+    "width": 419
+  },
+  "is_folderish": false,
+  "language": "##DEFAULT##",
+  "layout": "image_view",
+  "lock": {},
+  "modified": "2026-03-07T22:16:10+00:00",
+  "review_state": null,
+  "rights": "",
+  "subjects": [],
+  "title": "netzwerk_logo.png",
+  "type_title": "Image",
+  "version": "current",
+  "workflow_history": {},
+  "working_copy": null,
+  "working_copy_of": null
+}

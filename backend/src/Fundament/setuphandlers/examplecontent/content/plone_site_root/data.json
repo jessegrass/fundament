@@ -1,0 +1,39 @@
+{
+  "@id": "/Plone",
+  "@type": "Plone Site",
+  "UID": "plone_site_root",
+  "allow_discussion": null,
+  "contributors": [],
+  "creators": [
+    "admin"
+  ],
+  "description": "Fundament Bauen Wohnen Leben eingetragene Genossenschaft Frankfurt am Main",
+  "effective": null,
+  "exclude_from_nav": true,
+  "expires": null,
+  "exportimport.constrains": {},
+  "exportimport.conversation": [],
+  "id": "Plone",
+  "is_folderish": true,
+  "items_total": 8,
+  "language": "##DEFAULT##",
+  "layout": "full_view",
+  "lock": {
+    "locked": false,
+    "stealable": true
+  },
+  "review_state": null,
+  "rights": null,
+  "subjects": [],
+  "table_of_contents": false,
+  "text": {
+    "content-type": "text/html",
+    "data": "<p>Hilfe zur Selbsthilfe beim Wohnen: Eine Idee schl\u00e4gt ein</p>\r\n<p>Die Genossenschaft Fundament Bauen Wohnen Leben eG hat sich im Juli 2005 im Club Voltaire gegr\u00fcndet. Die Initialz\u00fcndung ging vom Verein \u201eLeben und Arbeiten in Gallus und Griesheim\u201c (LAGG e.V.) aus, einem Selbsthilfeverein der Besch\u00e4ftigten in den ehemaligen Adlerwerken. Eines seiner brennenden Themen waren die Werkswohnungen, war das Wohnen \u00fcberhaupt. Aus den dabei gemachten Erfahrungen wuchs die Idee, eine Initiative zur Gr\u00fcndung eines Bauvereins/einer Baugenossenschaft ins Leben zu rufen und finanziell wie ideell zu unterst\u00fctzen. Sechs Bausteine wiesen den Weg:</p>\r\n<p>- Selbsthilfe durch Genossenschaft<br>- Wohnen in Frankfurt<br>- Gemeinsam Wohnen und Leben<br>- Gemeinsam bauen und finanzieren<br>- Sicherheit f\u00fcr das Wohnen im Alter<br>- Bezahlbarer Wohnraum in Frankfurt</p>",
+    "encoding": "utf-8"
+  },
+  "title": "FUNDAMENT e.G.",
+  "type_title": "Plone Site",
+  "workflow_history": {},
+  "working_copy": null,
+  "working_copy_of": null
+}

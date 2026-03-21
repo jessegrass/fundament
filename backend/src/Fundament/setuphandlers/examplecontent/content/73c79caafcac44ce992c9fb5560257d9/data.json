@@ -1,0 +1,66 @@
+{
+  "@id": "/faq/wer-kann-mitglied-der-genossenschaft-werden",
+  "@type": "FAQ Item",
+  "UID": "73c79caafcac44ce992c9fb5560257d9",
+  "allow_discussion": null,
+  "answer": {
+    "content-type": "text/html",
+    "data": "<div tabindex=\"0\" class=\"views-field views-field-title views-accordion-header ui-accordion-header ui-helper-reset ui-state-active ui-corner-top\" aria-expanded=\"true\"><span class=\"ui-icon ui-icon-triangle-1-s\"></span> <span class=\"field-content\"><a href=\"https://fundament-eg.de/haeufige-fragen-fundament#menue_zuordnung-page_7-1\" tabindex=\"-1\"></a></span></div>\r\n<div class=\"ui-accordion-content ui-helper-reset ui-widget-content ui-corner-bottom ui-accordion-content-active\" style=\"height: 234px;\">\r\n<div class=\"views-field views-field-body\">\r\n<div class=\"field-content\">\r\n<p>Jeder und jede. F\u00fcr den Einstieg sind 25 Genossenschaftsanteile \u00e0 200 Euro (also 5000 Euro) erforderlich. Zus\u00e4tzlich sollten alle Mitglieder Eigenleistung bei der Organisation und in der Bauphase einbringen.</p>\r\n</div>\r\n</div>\r\n</div>",
+    "encoding": "utf-8"
+  },
+  "changeNote": "",
+  "created": "2026-02-14T20:11:59+00:00",
+  "detailed_question": null,
+  "exclude_from_nav": false,
+  "exportimport.constrains": {},
+  "exportimport.conversation": [],
+  "id": "wer-kann-mitglied-der-genossenschaft-werden",
+  "is_folderish": false,
+  "language": "##DEFAULT##",
+  "layout": "view",
+  "lock": {
+    "locked": false,
+    "stealable": true
+  },
+  "modified": "2026-02-14T23:38:17+00:00",
+  "review_state": "external",
+  "table_of_contents": false,
+  "title": "Wer kann Mitglied der Genossenschaft werden?",
+  "type_title": "FAQ Item",
+  "version": "current",
+  "versioning_enabled": true,
+  "workflow_history": {
+    "intranet_workflow": [
+      {
+        "action": null,
+        "actor": "admin",
+        "comments": "",
+        "review_state": "internal",
+        "time": "2026-02-14T20:11:59+00:00"
+      },
+      {
+        "action": null,
+        "actor": null,
+        "comments": "State remapped from control panel",
+        "review_state": "internal",
+        "time": "2026-02-14T23:36:41+00:00"
+      },
+      {
+        "action": "submit",
+        "actor": "admin",
+        "comments": "",
+        "review_state": "pending",
+        "time": "2026-02-14T23:37:43+00:00"
+      },
+      {
+        "action": "publish_externally",
+        "actor": "admin",
+        "comments": "",
+        "review_state": "external",
+        "time": "2026-02-14T23:38:17+00:00"
+      }
+    ]
+  },
+  "working_copy": null,
+  "working_copy_of": null
+}

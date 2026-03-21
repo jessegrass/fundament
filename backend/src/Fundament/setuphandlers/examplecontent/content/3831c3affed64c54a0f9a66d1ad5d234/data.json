@@ -1,0 +1,40 @@
+{
+  "@id": "/bilder/stosslueftung.jpeg",
+  "@type": "Image",
+  "UID": "3831c3affed64c54a0f9a66d1ad5d234",
+  "allow_discussion": null,
+  "contributors": [],
+  "created": "2026-03-07T22:15:38+00:00",
+  "creators": [
+    "admin"
+  ],
+  "description": "",
+  "effective": null,
+  "exclude_from_nav": false,
+  "expires": null,
+  "exportimport.constrains": {},
+  "exportimport.conversation": [],
+  "id": "stosslueftung.jpeg",
+  "image": {
+    "blob_path": "3831c3affed64c54a0f9a66d1ad5d234/image/stosslueftung.jpeg",
+    "content-type": "image/jpeg",
+    "filename": "stosslueftung.jpeg",
+    "height": 1000,
+    "size": 225364,
+    "width": 750
+  },
+  "is_folderish": false,
+  "language": "##DEFAULT##",
+  "layout": "image_view",
+  "lock": {},
+  "modified": "2026-03-07T22:15:38+00:00",
+  "review_state": null,
+  "rights": "",
+  "subjects": [],
+  "title": "stosslueftung.jpeg",
+  "type_title": "Image",
+  "version": "current",
+  "workflow_history": {},
+  "working_copy": null,
+  "working_copy_of": null
+}

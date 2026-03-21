@@ -1,0 +1,40 @@
+{
+  "@id": "/bilder/fundament-infostand.jpg",
+  "@type": "Image",
+  "UID": "8844bccbeb204e1ea263ca4c61161c06",
+  "allow_discussion": null,
+  "contributors": [],
+  "created": "2026-03-07T22:16:03+00:00",
+  "creators": [
+    "admin"
+  ],
+  "description": "",
+  "effective": null,
+  "exclude_from_nav": false,
+  "expires": null,
+  "exportimport.constrains": {},
+  "exportimport.conversation": [],
+  "id": "fundament-infostand.jpg",
+  "image": {
+    "blob_path": "8844bccbeb204e1ea263ca4c61161c06/image/fundament-infostand.jpg",
+    "content-type": "image/jpeg",
+    "filename": "fundament-infostand.jpg",
+    "height": 533,
+    "size": 56489,
+    "width": 400
+  },
+  "is_folderish": false,
+  "language": "##DEFAULT##",
+  "layout": "image_view",
+  "lock": {},
+  "modified": "2026-03-07T22:16:03+00:00",
+  "review_state": null,
+  "rights": "",
+  "subjects": [],
+  "title": "fundament-infostand.jpg",
+  "type_title": "Image",
+  "version": "current",
+  "workflow_history": {},
+  "working_copy": null,
+  "working_copy_of": null
+}

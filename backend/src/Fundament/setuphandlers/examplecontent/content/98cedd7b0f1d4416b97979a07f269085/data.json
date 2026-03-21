@@ -1,0 +1,102 @@
+{
+  "@id": "/ueber-fundament/wie-funktionierts",
+  "@type": "Document",
+  "UID": "98cedd7b0f1d4416b97979a07f269085",
+  "allow_discussion": null,
+  "changeNote": "",
+  "contributors": [],
+  "created": "2026-02-14T19:49:35+00:00",
+  "creators": [
+    "admin"
+  ],
+  "description": "Der Grundgedanke einer Baugenossenschaft ist schon \u00fcber 100 Jahre alt und noch immer aktuell. Weil heute wie damals die Versorgung mit Wohnungen am besten von den Betroffen selbst organisiert wird, anstatt andere daran verdienen zu lassen.",
+  "effective": "2026-02-14T20:31:00+00:00",
+  "exclude_from_nav": true,
+  "expires": null,
+  "exportimport.constrains": {},
+  "exportimport.conversation": [],
+  "id": "wie-funktionierts",
+  "is_folderish": false,
+  "language": "##DEFAULT##",
+  "layout": "document_view",
+  "lock": {
+    "locked": false,
+    "stealable": true
+  },
+  "modified": "2026-03-06T13:22:11+00:00",
+  "review_state": "external",
+  "rights": null,
+  "subjects": [],
+  "table_of_contents": false,
+  "text": {
+    "content-type": "text/html",
+    "data": "<p>Ein wesentliches Prinzip dabei ist, dass die Genossenschaftsmitglieder aktiv in den Gremien der Genossenschaft mitbestimmen. Wir setzen auf die Selbstorganisation der einzelnen <a href=\"../resolveuid/b0a0d1a5c9604cd191c0a01a6ab2b6ab\" data-linktype=\"internal\" data-val=\"b0a0d1a5c9604cd191c0a01a6ab2b6ab\">Projekte</a> auf dem gemeinsamen Fundament der\u00a0Genossenschaft.</p>\r\n<p>Wer bei Fundament bauen wohnen leben eG mitmachen will, muss f\u00fcr mindestens 5000 Euro Anteile erwerben. Die Anteile k\u00f6nnen auch in Raten gezahlt werden. Zus\u00e4tzlich sollen alle Mitglieder Eigenleistungen einbringen: Beim Aufbau der Genossenschaft, in der Bauphase und bei der Ausgestaltung ihres Projektes. F\u00fcr ihre Wohnung haben die Genossenschaftsmitglieder ein lebenslanges Nutzungsrecht. Im Laufe eines Lebens ver\u00e4ndern sich auch die Wohnbed\u00fcrfnisse. In der Genossenschaft l\u00e4sst sich das flexibel handhaben.</p>",
+    "encoding": "utf-8"
+  },
+  "title": "Wie funktionierts?",
+  "type_title": "Page",
+  "version": "current",
+  "versioning_enabled": true,
+  "workflow_history": {
+    "intranet_workflow": [
+      {
+        "action": null,
+        "actor": "admin",
+        "comments": "",
+        "review_state": "internal",
+        "time": "2026-02-14T19:49:35+00:00"
+      },
+      {
+        "action": "hide",
+        "actor": "admin",
+        "comments": "",
+        "review_state": "private",
+        "time": "2026-02-14T20:31:42+00:00"
+      },
+      {
+        "action": "show_internally",
+        "actor": "admin",
+        "comments": "",
+        "review_state": "internal",
+        "time": "2026-02-14T20:31:55+00:00"
+      },
+      {
+        "action": "submit",
+        "actor": "admin",
+        "comments": "",
+        "review_state": "pending",
+        "time": "2026-02-14T20:35:27+00:00"
+      },
+      {
+        "action": "publish_externally",
+        "actor": "admin",
+        "comments": "",
+        "review_state": "external",
+        "time": "2026-02-14T20:35:41+00:00"
+      },
+      {
+        "action": null,
+        "actor": null,
+        "comments": "State remapped from control panel",
+        "review_state": "internal",
+        "time": "2026-02-14T23:36:41+00:00"
+      },
+      {
+        "action": "submit",
+        "actor": "admin",
+        "comments": "",
+        "review_state": "pending",
+        "time": "2026-03-06T13:21:57+00:00"
+      },
+      {
+        "action": "publish_externally",
+        "actor": "admin",
+        "comments": "",
+        "review_state": "external",
+        "time": "2026-03-06T13:22:11+00:00"
+      }
+    ]
+  },
+  "working_copy": null,
+  "working_copy_of": null
+}

@@ -1,0 +1,40 @@
+{
+  "@id": "/bilder/sommer_auf_naxos.jpg",
+  "@type": "Image",
+  "UID": "eb2085938aa848b49b55ffb3dbe6d8e0",
+  "allow_discussion": null,
+  "contributors": [],
+  "created": "2026-03-07T22:15:34+00:00",
+  "creators": [
+    "admin"
+  ],
+  "description": "",
+  "effective": null,
+  "exclude_from_nav": false,
+  "expires": null,
+  "exportimport.constrains": {},
+  "exportimport.conversation": [],
+  "id": "sommer_auf_naxos.jpg",
+  "image": {
+    "blob_path": "eb2085938aa848b49b55ffb3dbe6d8e0/image/sommer_auf_naxos.jpg",
+    "content-type": "image/jpeg",
+    "filename": "sommer_auf_naxos.jpg",
+    "height": 1334,
+    "size": 365129,
+    "width": 2001
+  },
+  "is_folderish": false,
+  "language": "##DEFAULT##",
+  "layout": "image_view",
+  "lock": {},
+  "modified": "2026-03-07T22:15:34+00:00",
+  "review_state": null,
+  "rights": "",
+  "subjects": [],
+  "title": "sommer_auf_naxos.jpg",
+  "type_title": "Image",
+  "version": "current",
+  "workflow_history": {},
+  "working_copy": null,
+  "working_copy_of": null
+}

@@ -1,0 +1,54 @@
+{
+  "@id": "/mitgliederbereich/gremien/aufsichtsrat/testmeldung",
+  "@type": "News Item",
+  "UID": "27d58ee3f71e4c44936cb125f57411e9",
+  "allow_discussion": null,
+  "changeNote": "",
+  "contributors": [],
+  "created": "2026-03-03T17:50:42+00:00",
+  "creators": [
+    "kai-oliver.tiffany"
+  ],
+  "description": "Nur ein Test",
+  "effective": null,
+  "exclude_from_nav": false,
+  "expires": null,
+  "exportimport.constrains": {},
+  "exportimport.conversation": [],
+  "id": "testmeldung",
+  "image": null,
+  "image_caption": null,
+  "is_folderish": false,
+  "language": "##DEFAULT##",
+  "layout": "newsitem_view",
+  "lock": {
+    "locked": false,
+    "stealable": true
+  },
+  "modified": "2026-03-03T17:50:42+00:00",
+  "review_state": "internal",
+  "rights": null,
+  "subjects": [],
+  "text": {
+    "content-type": "text/html",
+    "data": "<p>Kleiner Text</p>",
+    "encoding": "utf-8"
+  },
+  "title": "Testmeldung",
+  "type_title": "News Item",
+  "version": "current",
+  "versioning_enabled": true,
+  "workflow_history": {
+    "intranet_workflow": [
+      {
+        "action": null,
+        "actor": "kai-oliver.tiffany",
+        "comments": "",
+        "review_state": "internal",
+        "time": "2026-03-03T17:50:42+00:00"
+      }
+    ]
+  },
+  "working_copy": null,
+  "working_copy_of": null
+}

@@ -1,6 +1,6 @@
-# clasic
+# Fundament
 
-Fundament-clasic-site
+Fundament-Fundament-site
 
 ## Features
 
@@ -8,10 +8,10 @@ TODO: List our awesome features
 
 ## Installation
 
-Install clasic with uv.
+Install Fundament with uv.
 
 ```shell
-uv add clasic
+uv add Fundament
 ```
 
 Create the Plone site.
@@ -22,8 +22,8 @@ make create-site
 
 ## Contribute
 
-- [Issue tracker](https://github.com/collective/clasic/issues)
-- [Source code](https://github.com/collective/clasic/)
+- [Issue tracker](https://github.com/jesse.grass/fundament/issues)
+- [Source code](https://github.com/jesse.grass/fundament/)
 
 ### Prerequisites ✅
 
@@ -38,8 +38,8 @@ make create-site
 1.  Clone this repository.
 
     ```shell
-    git clone git@github.com:collective/clasic.git
-    cd clasic/backend
+    git clone git@github.com:collective/Fundament.git
+    cd Fundament/backend
     ```
 
 2.  Install this code base.

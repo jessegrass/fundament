@@ -1,0 +1,40 @@
+{
+  "@id": "/bilder/radstreifen_wittelsbacherallee_akquise_2.jpg",
+  "@type": "Image",
+  "UID": "73b44216631b4c6cbcc4bb71ccdb7b6c",
+  "allow_discussion": null,
+  "contributors": [],
+  "created": "2026-03-07T22:15:45+00:00",
+  "creators": [
+    "admin"
+  ],
+  "description": "",
+  "effective": null,
+  "exclude_from_nav": false,
+  "expires": null,
+  "exportimport.constrains": {},
+  "exportimport.conversation": [],
+  "id": "radstreifen_wittelsbacherallee_akquise_2.jpg",
+  "image": {
+    "blob_path": "73b44216631b4c6cbcc4bb71ccdb7b6c/image/radstreifen_wittelsbacherallee_akquise_2.jpg",
+    "content-type": "image/jpeg",
+    "filename": "radstreifen_wittelsbacherallee_akquise_2.jpg",
+    "height": 1200,
+    "size": 150483,
+    "width": 849
+  },
+  "is_folderish": false,
+  "language": "##DEFAULT##",
+  "layout": "image_view",
+  "lock": {},
+  "modified": "2026-03-07T22:15:45+00:00",
+  "review_state": null,
+  "rights": "",
+  "subjects": [],
+  "title": "radstreifen_wittelsbacherallee_akquise_2.jpg",
+  "type_title": "Image",
+  "version": "current",
+  "workflow_history": {},
+  "working_copy": null,
+  "working_copy_of": null
+}

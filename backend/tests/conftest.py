@@ -1,6 +1,6 @@
-from clasic.testing import ACCEPTANCE_TESTING
-from clasic.testing import FUNCTIONAL_TESTING
-from clasic.testing import INTEGRATION_TESTING
+from Fundament.testing import ACCEPTANCE_TESTING
+from Fundament.testing import FUNCTIONAL_TESTING
+from Fundament.testing import INTEGRATION_TESTING
 from pytest_plone import fixtures_factory
 
 

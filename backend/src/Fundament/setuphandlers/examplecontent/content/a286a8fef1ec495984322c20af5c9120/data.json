@@ -1,0 +1,87 @@
+{
+  "@id": "/ueber-fundament",
+  "@type": "Folder",
+  "UID": "a286a8fef1ec495984322c20af5c9120",
+  "allow_discussion": null,
+  "contributors": [],
+  "created": "2026-02-14T01:47:27+00:00",
+  "creators": [
+    "admin"
+  ],
+  "description": "",
+  "effective": "2026-02-14T20:31:00+00:00",
+  "exclude_from_nav": false,
+  "expires": null,
+  "exportimport.constrains": {},
+  "exportimport.conversation": [],
+  "id": "ueber-fundament",
+  "is_folderish": true,
+  "language": "##DEFAULT##",
+  "layout": "summary_view",
+  "lock": {},
+  "modified": "2026-02-15T04:29:21+00:00",
+  "nextPreviousEnabled": true,
+  "review_state": "external",
+  "rights": null,
+  "subjects": [],
+  "title": "\u00dcber Fundament",
+  "type_title": "Folder",
+  "version": "current",
+  "workflow_history": {
+    "intranet_folder_workflow": [
+      {
+        "action": null,
+        "actor": null,
+        "comments": "State remapped from control panel",
+        "review_state": "internal",
+        "time": "2026-02-14T02:15:10+00:00"
+      },
+      {
+        "action": "hide",
+        "actor": "admin",
+        "comments": "",
+        "review_state": "private",
+        "time": "2026-02-14T20:31:42+00:00"
+      },
+      {
+        "action": "show_internally",
+        "actor": "admin",
+        "comments": "",
+        "review_state": "internal",
+        "time": "2026-02-14T20:31:55+00:00"
+      }
+    ],
+    "intranet_workflow": [
+      {
+        "action": null,
+        "actor": "admin",
+        "comments": "",
+        "review_state": "internal",
+        "time": "2026-02-14T01:47:27+00:00"
+      },
+      {
+        "action": null,
+        "actor": null,
+        "comments": "State remapped from control panel",
+        "review_state": "internal",
+        "time": "2026-02-14T20:35:06+00:00"
+      },
+      {
+        "action": "submit",
+        "actor": "admin",
+        "comments": "",
+        "review_state": "pending",
+        "time": "2026-02-14T20:35:27+00:00"
+      },
+      {
+        "action": "publish_externally",
+        "actor": "admin",
+        "comments": "",
+        "review_state": "external",
+        "time": "2026-02-14T20:35:41+00:00"
+      }
+    ]
+  },
+  "working_copy": null,
+  "working_copy_of": null
+}

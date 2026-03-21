@@ -1,0 +1,66 @@
+{
+  "@id": "/faq/wieviele-genossenschaftsanteile-brauche-ich",
+  "@type": "FAQ Item",
+  "UID": "d90cc44bb59441fd8af7382db0f2c4d7",
+  "allow_discussion": null,
+  "answer": {
+    "content-type": "text/html",
+    "data": "<p>\u00a0Um Mitglied der Genossenschaft zu werden, m\u00fcssen mindestens 25 Anteile gezeichnet werden.</p>",
+    "encoding": "utf-8"
+  },
+  "changeNote": "",
+  "created": "2026-02-14T20:15:22+00:00",
+  "detailed_question": null,
+  "exclude_from_nav": false,
+  "exportimport.constrains": {},
+  "exportimport.conversation": [],
+  "id": "wieviele-genossenschaftsanteile-brauche-ich",
+  "is_folderish": false,
+  "language": "##DEFAULT##",
+  "layout": "view",
+  "lock": {
+    "locked": false,
+    "stealable": true
+  },
+  "modified": "2026-02-14T23:38:17+00:00",
+  "review_state": "external",
+  "table_of_contents": false,
+  "title": "Wieviele Genossenschaftsanteile brauche ich?",
+  "type_title": "FAQ Item",
+  "version": "current",
+  "versioning_enabled": true,
+  "workflow_history": {
+    "intranet_workflow": [
+      {
+        "action": null,
+        "actor": "admin",
+        "comments": "",
+        "review_state": "internal",
+        "time": "2026-02-14T20:15:22+00:00"
+      },
+      {
+        "action": null,
+        "actor": null,
+        "comments": "State remapped from control panel",
+        "review_state": "internal",
+        "time": "2026-02-14T23:36:41+00:00"
+      },
+      {
+        "action": "submit",
+        "actor": "admin",
+        "comments": "",
+        "review_state": "pending",
+        "time": "2026-02-14T23:37:43+00:00"
+      },
+      {
+        "action": "publish_externally",
+        "actor": "admin",
+        "comments": "",
+        "review_state": "external",
+        "time": "2026-02-14T23:38:17+00:00"
+      }
+    ]
+  },
+  "working_copy": null,
+  "working_copy_of": null
+}

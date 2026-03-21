@@ -1,0 +1,102 @@
+{
+  "@id": "/ueber-fundament/warum-jetzt-beitreten",
+  "@type": "Document",
+  "UID": "8969507da5f7423aa1a44d8939c862bc",
+  "allow_discussion": null,
+  "changeNote": "",
+  "contributors": [],
+  "created": "2026-02-14T19:17:34+00:00",
+  "creators": [
+    "admin"
+  ],
+  "description": "Wer fr\u00fch eintritt, erwirbt schneller einen Anspruch auf eine Wohnung. Zugleich besteht die M\u00f6glichkeit, von Beginn an Projekte nach den eigenen Bed\u00fcrfnissen und Vorstellungen mit zu gestalten und die zuk\u00fcnftigen Mitbewohner kennen zu lernen.",
+  "effective": "2026-02-14T20:31:00+00:00",
+  "exclude_from_nav": true,
+  "expires": null,
+  "exportimport.constrains": {},
+  "exportimport.conversation": [],
+  "id": "warum-jetzt-beitreten",
+  "is_folderish": false,
+  "language": "##DEFAULT##",
+  "layout": "document_view",
+  "lock": {
+    "locked": false,
+    "stealable": true
+  },
+  "modified": "2026-03-06T13:22:11+00:00",
+  "review_state": "external",
+  "rights": null,
+  "subjects": [],
+  "table_of_contents": false,
+  "text": {
+    "content-type": "text/html",
+    "data": "<p>Je mehr Mitglieder die Genossenschaft hat, desto unabh\u00e4ngiger sind wir von den Banken. Um schnell weitere Projekte verwirklichen und<br>preiswerten Wohnraum schaffen zu k\u00f6nnen brauchen wir m\u00f6glichst viel Eigenkapital. Je mehr Wohnungen wir bauen oder sanieren k\u00f6nnen, desto mehr Mitglieder kommen fr\u00fcher in den Genuss einer Genossenschaftswohnung.</p>",
+    "encoding": "utf-8"
+  },
+  "title": "Warum jetzt beitreten?",
+  "type_title": "Page",
+  "version": "current",
+  "versioning_enabled": true,
+  "workflow_history": {
+    "intranet_workflow": [
+      {
+        "action": null,
+        "actor": "admin",
+        "comments": "",
+        "review_state": "internal",
+        "time": "2026-02-14T19:17:34+00:00"
+      },
+      {
+        "action": "hide",
+        "actor": "admin",
+        "comments": "",
+        "review_state": "private",
+        "time": "2026-02-14T20:31:42+00:00"
+      },
+      {
+        "action": "show_internally",
+        "actor": "admin",
+        "comments": "",
+        "review_state": "internal",
+        "time": "2026-02-14T20:31:55+00:00"
+      },
+      {
+        "action": "submit",
+        "actor": "admin",
+        "comments": "",
+        "review_state": "pending",
+        "time": "2026-02-14T20:35:27+00:00"
+      },
+      {
+        "action": "publish_externally",
+        "actor": "admin",
+        "comments": "",
+        "review_state": "external",
+        "time": "2026-02-14T20:35:41+00:00"
+      },
+      {
+        "action": null,
+        "actor": null,
+        "comments": "State remapped from control panel",
+        "review_state": "internal",
+        "time": "2026-02-14T23:36:41+00:00"
+      },
+      {
+        "action": "submit",
+        "actor": "admin",
+        "comments": "",
+        "review_state": "pending",
+        "time": "2026-03-06T13:21:57+00:00"
+      },
+      {
+        "action": "publish_externally",
+        "actor": "admin",
+        "comments": "",
+        "review_state": "external",
+        "time": "2026-03-06T13:22:11+00:00"
+      }
+    ]
+  },
+  "working_copy": null,
+  "working_copy_of": null
+}

@@ -1,5 +1,5 @@
 from AccessControl.SecurityManagement import newSecurityManager
-from clasic.interfaces import IBrowserLayer
+from Fundament.interfaces import IBrowserLayer
 from Products.CMFPlone.factory import _DEFAULT_PROFILE
 from Products.CMFPlone.factory import addPloneSite
 from Products.GenericSetup.tool import SetupTool
@@ -26,7 +26,7 @@ def asbool(s):
     return s.lower() in truthy
 
 
-DELETE_EXISTING = asbool(os.getenv("DELETE_EXISTING"))
+DELETE_EXISTING = asbool(os.getenv("DELETE_EXISTING", "1"))
 EXAMPLE_CONTENT = asbool(os.getenv("EXAMPLE_CONTENT", "1"))
 
 app = makerequest(globals()["app"])
@@ -45,7 +45,7 @@ newSecurityManager(None, admin)
 
 site_id = "Plone"
 payload = {
-    "title": "clasic",
+    "title": "Fundament",
     "profile_id": _DEFAULT_PROFILE,
     "distribution_name": "classic",
     "setup_content": False,
@@ -63,10 +63,10 @@ if site_id not in app.objectIds():
     transaction.commit()
 
     portal_setup: SetupTool = site.portal_setup
-    portal_setup.runAllImportStepsFromProfile("profile-clasic:default")
+    portal_setup.runAllImportStepsFromProfile("profile-Fundament:default")
     transaction.commit()
 
     if EXAMPLE_CONTENT:
-        portal_setup.runAllImportStepsFromProfile("profile-clasic:initial")
+        portal_setup.runAllImportStepsFromProfile("profile-Fundament:initial")
         transaction.commit()
     app._p_jar.sync()

@@ -1,0 +1,40 @@
+{
+  "@id": "/bilder/02_dichtung.jpeg",
+  "@type": "Image",
+  "UID": "47823b21b3384f8292b11d8b7421436c",
+  "allow_discussion": null,
+  "contributors": [],
+  "created": "2026-03-07T22:15:36+00:00",
+  "creators": [
+    "admin"
+  ],
+  "description": "",
+  "effective": null,
+  "exclude_from_nav": false,
+  "expires": null,
+  "exportimport.constrains": {},
+  "exportimport.conversation": [],
+  "id": "02_dichtung.jpeg",
+  "image": {
+    "blob_path": "47823b21b3384f8292b11d8b7421436c/image/02_dichtung.jpeg",
+    "content-type": "image/jpeg",
+    "filename": "02_dichtung.jpeg",
+    "height": 750,
+    "size": 235586,
+    "width": 1000
+  },
+  "is_folderish": false,
+  "language": "##DEFAULT##",
+  "layout": "image_view",
+  "lock": {},
+  "modified": "2026-03-07T22:15:36+00:00",
+  "review_state": null,
+  "rights": "",
+  "subjects": [],
+  "title": "02_dichtung.jpeg",
+  "type_title": "Image",
+  "version": "current",
+  "workflow_history": {},
+  "working_copy": null,
+  "working_copy_of": null
+}

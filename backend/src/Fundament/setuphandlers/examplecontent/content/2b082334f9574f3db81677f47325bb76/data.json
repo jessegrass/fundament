@@ -1,0 +1,102 @@
+{
+  "@id": "/ueber-fundament/wer-sind-wir",
+  "@type": "Document",
+  "UID": "2b082334f9574f3db81677f47325bb76",
+  "allow_discussion": null,
+  "changeNote": "",
+  "contributors": [],
+  "created": "2026-02-14T19:16:14+00:00",
+  "creators": [
+    "admin"
+  ],
+  "description": "Wir sind Menschen aus Frankfurt und Umgebung: Jung und alt, mit und ohne Kinder. Wir haben vielf\u00e4ltige Vorstellungen, wo und wie wir in Zukunft wohnen und leben wollen. Deshalb haben wir im Juli 2005 eine Baugenossenschaft f\u00fcr selbst verwaltetes, soziales und \u00f6kologisches Wohnen in Frankfurt gegr\u00fcndet.",
+  "effective": "2026-02-14T20:31:00+00:00",
+  "exclude_from_nav": true,
+  "expires": null,
+  "exportimport.constrains": {},
+  "exportimport.conversation": [],
+  "id": "wer-sind-wir",
+  "is_folderish": false,
+  "language": "##DEFAULT##",
+  "layout": "document_view",
+  "lock": {
+    "locked": false,
+    "stealable": true
+  },
+  "modified": "2026-03-06T13:22:11+00:00",
+  "review_state": "external",
+  "rights": null,
+  "subjects": [],
+  "table_of_contents": false,
+  "text": {
+    "content-type": "text/html",
+    "data": "<p>Unsere Genossenschaft\u00a0hei\u00dft</p>\r\n<p><b>Fundament bauen wohnen leben eG</b>.</p>\r\n<p>Wir bauen auf die <b>Selbsthilfe und das Engagement</b> unserer Mitglieder. Wir haben damit offenbar einen Nerv getroffen und k\u00f6nnen uns \u00fcber einen starken Zuspruch zu unserer Idee freuen: Innerhalb nur eines Jahres nach Gr\u00fcndung haben sich \u00fcber 90 Mitglieder unserer Genossenschaft angeschlossen und \u00fcber 450.000 Euro Startkapital zusammengelegt. Das bedeutet: Wir reden nicht nur \u00fcber unsere W\u00fcnsche und Vorstellungen, sondern wir haben auch gemeinsam die Kraft sie in die Tat umzusetzen!</p>",
+    "encoding": "utf-8"
+  },
+  "title": "Wer sind wir?",
+  "type_title": "Page",
+  "version": "current",
+  "versioning_enabled": true,
+  "workflow_history": {
+    "intranet_workflow": [
+      {
+        "action": null,
+        "actor": "admin",
+        "comments": "",
+        "review_state": "internal",
+        "time": "2026-02-14T19:16:14+00:00"
+      },
+      {
+        "action": "hide",
+        "actor": "admin",
+        "comments": "",
+        "review_state": "private",
+        "time": "2026-02-14T20:31:42+00:00"
+      },
+      {
+        "action": "show_internally",
+        "actor": "admin",
+        "comments": "",
+        "review_state": "internal",
+        "time": "2026-02-14T20:31:55+00:00"
+      },
+      {
+        "action": "submit",
+        "actor": "admin",
+        "comments": "",
+        "review_state": "pending",
+        "time": "2026-02-14T20:35:27+00:00"
+      },
+      {
+        "action": "publish_externally",
+        "actor": "admin",
+        "comments": "",
+        "review_state": "external",
+        "time": "2026-02-14T20:35:41+00:00"
+      },
+      {
+        "action": null,
+        "actor": null,
+        "comments": "State remapped from control panel",
+        "review_state": "internal",
+        "time": "2026-02-14T23:36:41+00:00"
+      },
+      {
+        "action": "submit",
+        "actor": "admin",
+        "comments": "",
+        "review_state": "pending",
+        "time": "2026-03-06T13:21:57+00:00"
+      },
+      {
+        "action": "publish_externally",
+        "actor": "admin",
+        "comments": "",
+        "review_state": "external",
+        "time": "2026-03-06T13:22:11+00:00"
+      }
+    ]
+  },
+  "working_copy": null,
+  "working_copy_of": null
+}

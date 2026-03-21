@@ -1,0 +1,40 @@
+{
+  "@id": "/bilder/01.jpeg",
+  "@type": "Image",
+  "UID": "1a6c96ce21da45d6a1027e98186f3208",
+  "allow_discussion": null,
+  "contributors": [],
+  "created": "2026-03-07T22:15:58+00:00",
+  "creators": [
+    "admin"
+  ],
+  "description": "",
+  "effective": null,
+  "exclude_from_nav": false,
+  "expires": null,
+  "exportimport.constrains": {},
+  "exportimport.conversation": [],
+  "id": "01.jpeg",
+  "image": {
+    "blob_path": "1a6c96ce21da45d6a1027e98186f3208/image/01.jpeg",
+    "content-type": "image/jpeg",
+    "filename": "01.jpeg",
+    "height": 1200,
+    "size": 84872,
+    "width": 900
+  },
+  "is_folderish": false,
+  "language": "##DEFAULT##",
+  "layout": "image_view",
+  "lock": {},
+  "modified": "2026-03-07T22:15:58+00:00",
+  "review_state": null,
+  "rights": "",
+  "subjects": [],
+  "title": "01.jpeg",
+  "type_title": "Image",
+  "version": "current",
+  "workflow_history": {},
+  "working_copy": null,
+  "working_copy_of": null
+}

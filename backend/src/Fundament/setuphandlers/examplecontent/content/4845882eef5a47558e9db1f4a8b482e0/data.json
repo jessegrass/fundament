@@ -1,0 +1,83 @@
+{
+  "@id": "/projekte/naxos",
+  "@type": "Folder",
+  "UID": "4845882eef5a47558e9db1f4a8b482e0",
+  "allow_discussion": null,
+  "contributors": [],
+  "created": "2026-02-14T20:02:47+00:00",
+  "creators": [
+    "admin"
+  ],
+  "description": "Das Projekt an der Wittelsbacherallee mitten im Ostend ist im bezogen. Hier wohnen vor allem Singles und Paare von 30 bis 72 Jahren. Das Haus geh\u00f6rt zu einem Ensemble von insgesamt sechs H\u00e4usern f\u00fcr gemeinschaftliches und/oder genossenschaftliches Wohnen zwischen Wittelsbacherallee und Waldschmidtstra\u00dfe auf dem ehemaligen Naxosgel\u00e4nde, der denkmalgesch\u00fctzten Naxoshalle mit dem Theater Willy Praml vorgelagert.",
+  "effective": "2026-02-14T20:31:00+00:00",
+  "exclude_from_nav": false,
+  "expires": null,
+  "exportimport.constrains": {},
+  "exportimport.conversation": [],
+  "id": "naxos",
+  "is_folderish": true,
+  "language": "##DEFAULT##",
+  "layout": "album_view",
+  "lock": {},
+  "modified": "2026-03-13T11:19:23+00:00",
+  "nextPreviousEnabled": false,
+  "review_state": "external",
+  "rights": null,
+  "subjects": [
+    "Projekt",
+    "Naxos"
+  ],
+  "title": "Naxos",
+  "type_title": "Folder",
+  "version": "current",
+  "workflow_history": {
+    "intranet_folder_workflow": [
+      {
+        "action": null,
+        "actor": "admin",
+        "comments": "",
+        "review_state": "internal",
+        "time": "2026-02-14T20:02:47+00:00"
+      },
+      {
+        "action": "hide",
+        "actor": "admin",
+        "comments": "",
+        "review_state": "private",
+        "time": "2026-02-14T20:31:42+00:00"
+      },
+      {
+        "action": "show_internally",
+        "actor": "admin",
+        "comments": "",
+        "review_state": "internal",
+        "time": "2026-02-14T20:31:56+00:00"
+      }
+    ],
+    "intranet_workflow": [
+      {
+        "action": null,
+        "actor": null,
+        "comments": "State remapped from control panel",
+        "review_state": "internal",
+        "time": "2026-02-14T20:35:06+00:00"
+      },
+      {
+        "action": "submit",
+        "actor": "admin",
+        "comments": "",
+        "review_state": "pending",
+        "time": "2026-02-14T20:35:27+00:00"
+      },
+      {
+        "action": "publish_externally",
+        "actor": "admin",
+        "comments": "",
+        "review_state": "external",
+        "time": "2026-02-14T20:35:41+00:00"
+      }
+    ]
+  },
+  "working_copy": null,
+  "working_copy_of": null
+}

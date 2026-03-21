@@ -1,0 +1,40 @@
+{
+  "@id": "/bilder/geruestfrei.jpeg",
+  "@type": "Image",
+  "UID": "e9e357ef9ca6444b833552cc76d3201e",
+  "allow_discussion": null,
+  "contributors": [],
+  "created": "2026-03-07T22:16:02+00:00",
+  "creators": [
+    "admin"
+  ],
+  "description": "",
+  "effective": null,
+  "exclude_from_nav": false,
+  "expires": null,
+  "exportimport.constrains": {},
+  "exportimport.conversation": [],
+  "id": "geruestfrei.jpeg",
+  "image": {
+    "blob_path": "e9e357ef9ca6444b833552cc76d3201e/image/geruestfrei.jpeg",
+    "content-type": "image/jpeg",
+    "filename": "geruestfrei.jpeg",
+    "height": 400,
+    "size": 58357,
+    "width": 300
+  },
+  "is_folderish": false,
+  "language": "##DEFAULT##",
+  "layout": "image_view",
+  "lock": {},
+  "modified": "2026-03-07T22:16:02+00:00",
+  "review_state": null,
+  "rights": "",
+  "subjects": [],
+  "title": "geruestfrei.jpeg",
+  "type_title": "Image",
+  "version": "current",
+  "workflow_history": {},
+  "working_copy": null,
+  "working_copy_of": null
+}

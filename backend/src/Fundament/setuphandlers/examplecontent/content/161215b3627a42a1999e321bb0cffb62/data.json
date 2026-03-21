@@ -1,0 +1,40 @@
+{
+  "@id": "/bilder/abend.jpg",
+  "@type": "Image",
+  "UID": "161215b3627a42a1999e321bb0cffb62",
+  "allow_discussion": null,
+  "contributors": [],
+  "created": "2026-03-07T22:15:42+00:00",
+  "creators": [
+    "admin"
+  ],
+  "description": "",
+  "effective": null,
+  "exclude_from_nav": false,
+  "expires": null,
+  "exportimport.constrains": {},
+  "exportimport.conversation": [],
+  "id": "abend.jpg",
+  "image": {
+    "blob_path": "161215b3627a42a1999e321bb0cffb62/image/abend.jpg",
+    "content-type": "image/jpeg",
+    "filename": "abend.jpg",
+    "height": 750,
+    "size": 195288,
+    "width": 1000
+  },
+  "is_folderish": false,
+  "language": "##DEFAULT##",
+  "layout": "image_view",
+  "lock": {},
+  "modified": "2026-03-07T22:15:42+00:00",
+  "review_state": null,
+  "rights": "",
+  "subjects": [],
+  "title": "abend.jpg",
+  "type_title": "Image",
+  "version": "current",
+  "workflow_history": {},
+  "working_copy": null,
+  "working_copy_of": null
+}

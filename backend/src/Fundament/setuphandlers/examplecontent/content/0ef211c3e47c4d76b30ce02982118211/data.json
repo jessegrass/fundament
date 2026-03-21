@@ -1,0 +1,53 @@
+{
+  "@id": "/mitgliederbereich/gremien/aufsichtsrat/testseite",
+  "@type": "Document",
+  "UID": "0ef211c3e47c4d76b30ce02982118211",
+  "allow_discussion": null,
+  "changeNote": "",
+  "contributors": [],
+  "created": "2026-02-15T05:55:58+00:00",
+  "creators": [
+    "admin"
+  ],
+  "description": "Nur zum rumspielen",
+  "effective": null,
+  "exclude_from_nav": true,
+  "expires": null,
+  "exportimport.constrains": {},
+  "exportimport.conversation": [],
+  "id": "testseite",
+  "is_folderish": false,
+  "language": "##DEFAULT##",
+  "layout": "document_view",
+  "lock": {
+    "locked": false,
+    "stealable": true
+  },
+  "modified": "2026-03-08T08:33:28+00:00",
+  "review_state": "internal",
+  "rights": null,
+  "subjects": [],
+  "table_of_contents": false,
+  "text": {
+    "content-type": "text/html",
+    "data": "<div class=\"flexbin flexbin-margin\"><a href=\"https://picsum.photos/id/1012/1600/1067\" class=\"spotlight\" data-description=\"\"> \u00a0</a>[gallery_shortcode]</div>\r\n<p>\r\n<script src=\"http://localhost:8080/Plone/++resource++protect.js\" type=\"application/javascript\" id=\"protect-script\" data-site-url=\"http://localhost:8080/Plone\" data-token=\"51bc0957d1a3cbb80fdb63a7cc4a3160d093f326\"></script>\r\n</p>",
+    "encoding": "utf-8"
+  },
+  "title": "Testseite",
+  "type_title": "Page",
+  "version": "current",
+  "versioning_enabled": true,
+  "workflow_history": {
+    "intranet_workflow": [
+      {
+        "action": null,
+        "actor": "admin",
+        "comments": "",
+        "review_state": "internal",
+        "time": "2026-02-15T05:55:58+00:00"
+      }
+    ]
+  },
+  "working_copy": null,
+  "working_copy_of": null
+}

@@ -1,0 +1,57 @@
+{
+  "@id": "/bilder",
+  "@type": "Folder",
+  "UID": "64dc8ebbc85a4eb0bd598e86b8891ccd",
+  "allow_discussion": null,
+  "contributors": [],
+  "created": "2026-03-07T22:12:53+00:00",
+  "creators": [
+    "admin"
+  ],
+  "description": "",
+  "effective": "2026-03-08T00:19:00+00:00",
+  "exclude_from_nav": true,
+  "expires": null,
+  "exportimport.constrains": {},
+  "exportimport.conversation": [],
+  "id": "bilder",
+  "is_folderish": true,
+  "language": "##DEFAULT##",
+  "layout": "photo-gallery",
+  "lock": {},
+  "modified": "2026-03-10T17:37:45+00:00",
+  "nextPreviousEnabled": false,
+  "review_state": "external",
+  "rights": null,
+  "subjects": [],
+  "title": "Bilder",
+  "type_title": "Folder",
+  "version": "current",
+  "workflow_history": {
+    "intranet_workflow": [
+      {
+        "action": null,
+        "actor": "admin",
+        "comments": "",
+        "review_state": "internal",
+        "time": "2026-03-07T22:12:53+00:00"
+      },
+      {
+        "action": "submit",
+        "actor": "admin",
+        "comments": "",
+        "review_state": "pending",
+        "time": "2026-03-08T00:19:48+00:00"
+      },
+      {
+        "action": "publish_externally",
+        "actor": "admin",
+        "comments": "",
+        "review_state": "external",
+        "time": "2026-03-08T00:19:52+00:00"
+      }
+    ]
+  },
+  "working_copy": null,
+  "working_copy_of": null
+}

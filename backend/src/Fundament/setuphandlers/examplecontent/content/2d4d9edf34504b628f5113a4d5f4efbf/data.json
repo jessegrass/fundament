@@ -1,0 +1,40 @@
+{
+  "@id": "/bilder/spatenstich_42.jpg",
+  "@type": "Image",
+  "UID": "2d4d9edf34504b628f5113a4d5f4efbf",
+  "allow_discussion": null,
+  "contributors": [],
+  "created": "2026-03-07T22:15:40+00:00",
+  "creators": [
+    "admin"
+  ],
+  "description": "",
+  "effective": null,
+  "exclude_from_nav": false,
+  "expires": null,
+  "exportimport.constrains": {},
+  "exportimport.conversation": [],
+  "id": "spatenstich_42.jpg",
+  "image": {
+    "blob_path": "2d4d9edf34504b628f5113a4d5f4efbf/image/spatenstich_42.jpg",
+    "content-type": "image/jpeg",
+    "filename": "spatenstich_42.jpg",
+    "height": 900,
+    "size": 203920,
+    "width": 1200
+  },
+  "is_folderish": false,
+  "language": "##DEFAULT##",
+  "layout": "image_view",
+  "lock": {},
+  "modified": "2026-03-07T22:15:40+00:00",
+  "review_state": null,
+  "rights": "",
+  "subjects": [],
+  "title": "spatenstich_42.jpg",
+  "type_title": "Image",
+  "version": "current",
+  "workflow_history": {},
+  "working_copy": null,
+  "working_copy_of": null
+}

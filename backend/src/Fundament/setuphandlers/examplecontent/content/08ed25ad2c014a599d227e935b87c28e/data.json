@@ -1,0 +1,40 @@
+{
+  "@id": "/bilder/naxos-konzert_2021-04-23-00003.jpg",
+  "@type": "Image",
+  "UID": "08ed25ad2c014a599d227e935b87c28e",
+  "allow_discussion": null,
+  "contributors": [],
+  "created": "2026-03-07T22:15:38+00:00",
+  "creators": [
+    "admin"
+  ],
+  "description": "",
+  "effective": null,
+  "exclude_from_nav": false,
+  "expires": null,
+  "exportimport.constrains": {},
+  "exportimport.conversation": [],
+  "id": "naxos-konzert_2021-04-23-00003.jpg",
+  "image": {
+    "blob_path": "08ed25ad2c014a599d227e935b87c28e/image/naxos-konzert_2021-04-23-00003.jpg",
+    "content-type": "image/jpeg",
+    "filename": "naxos-konzert_2021-04-23-00003.jpg",
+    "height": 798,
+    "size": 226927,
+    "width": 1200
+  },
+  "is_folderish": false,
+  "language": "##DEFAULT##",
+  "layout": "image_view",
+  "lock": {},
+  "modified": "2026-03-07T22:15:38+00:00",
+  "review_state": null,
+  "rights": "",
+  "subjects": [],
+  "title": "naxos-konzert_2021-04-23-00003.jpg",
+  "type_title": "Image",
+  "version": "current",
+  "workflow_history": {},
+  "working_copy": null,
+  "working_copy_of": null
+}

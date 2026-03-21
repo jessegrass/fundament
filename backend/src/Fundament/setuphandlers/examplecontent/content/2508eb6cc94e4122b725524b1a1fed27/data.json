@@ -1,0 +1,66 @@
+{
+  "@id": "/faq/haben-genossen-mit-mehr-anteilen-auch-mehr-stimmen",
+  "@type": "FAQ Item",
+  "UID": "2508eb6cc94e4122b725524b1a1fed27",
+  "allow_discussion": null,
+  "answer": {
+    "content-type": "text/html",
+    "data": "<p>Nein. Jedes Mitglied der Genossenschaft hat bei der Mitgliederversammlung eine Stimme, unabh\u00e4ngig von der Anzahl der gezeichneten Genossenschaftsanteile.</p>",
+    "encoding": "utf-8"
+  },
+  "changeNote": "",
+  "created": "2026-02-14T20:14:54+00:00",
+  "detailed_question": null,
+  "exclude_from_nav": false,
+  "exportimport.constrains": {},
+  "exportimport.conversation": [],
+  "id": "haben-genossen-mit-mehr-anteilen-auch-mehr-stimmen",
+  "is_folderish": false,
+  "language": "##DEFAULT##",
+  "layout": "view",
+  "lock": {
+    "locked": false,
+    "stealable": true
+  },
+  "modified": "2026-02-14T23:38:17+00:00",
+  "review_state": "external",
+  "table_of_contents": false,
+  "title": "Haben Genossen mit mehr Anteilen auch mehr Stimmen?",
+  "type_title": "FAQ Item",
+  "version": "current",
+  "versioning_enabled": true,
+  "workflow_history": {
+    "intranet_workflow": [
+      {
+        "action": null,
+        "actor": "admin",
+        "comments": "",
+        "review_state": "internal",
+        "time": "2026-02-14T20:14:54+00:00"
+      },
+      {
+        "action": null,
+        "actor": null,
+        "comments": "State remapped from control panel",
+        "review_state": "internal",
+        "time": "2026-02-14T23:36:41+00:00"
+      },
+      {
+        "action": "submit",
+        "actor": "admin",
+        "comments": "",
+        "review_state": "pending",
+        "time": "2026-02-14T23:37:43+00:00"
+      },
+      {
+        "action": "publish_externally",
+        "actor": "admin",
+        "comments": "",
+        "review_state": "external",
+        "time": "2026-02-14T23:38:17+00:00"
+      }
+    ]
+  },
+  "working_copy": null,
+  "working_copy_of": null
+}

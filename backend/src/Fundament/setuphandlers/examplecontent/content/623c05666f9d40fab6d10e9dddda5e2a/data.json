@@ -1,0 +1,40 @@
+{
+  "@id": "/bilder/bericht_in_der_fnp.jpg",
+  "@type": "Image",
+  "UID": "623c05666f9d40fab6d10e9dddda5e2a",
+  "allow_discussion": null,
+  "contributors": [],
+  "created": "2026-03-07T22:15:33+00:00",
+  "creators": [
+    "admin"
+  ],
+  "description": "",
+  "effective": null,
+  "exclude_from_nav": false,
+  "expires": null,
+  "exportimport.constrains": {},
+  "exportimport.conversation": [],
+  "id": "bericht_in_der_fnp.jpg",
+  "image": {
+    "blob_path": "623c05666f9d40fab6d10e9dddda5e2a/image/bericht_in_der_fnp.jpg",
+    "content-type": "image/jpeg",
+    "filename": "bericht_in_der_fnp.jpg",
+    "height": 1512,
+    "size": 745069,
+    "width": 996
+  },
+  "is_folderish": false,
+  "language": "##DEFAULT##",
+  "layout": "image_view",
+  "lock": {},
+  "modified": "2026-03-07T22:15:33+00:00",
+  "review_state": null,
+  "rights": "",
+  "subjects": [],
+  "title": "bericht_in_der_fnp.jpg",
+  "type_title": "Image",
+  "version": "current",
+  "workflow_history": {},
+  "working_copy": null,
+  "working_copy_of": null
+}

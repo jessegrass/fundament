@@ -1,0 +1,40 @@
+{
+  "@id": "/bilder/cv.jpg",
+  "@type": "Image",
+  "UID": "b5208cc3f453406eb48788b894a04fca",
+  "allow_discussion": null,
+  "contributors": [],
+  "created": "2026-03-07T22:16:05+00:00",
+  "creators": [
+    "admin"
+  ],
+  "description": "",
+  "effective": null,
+  "exclude_from_nav": false,
+  "expires": null,
+  "exportimport.constrains": {},
+  "exportimport.conversation": [],
+  "id": "cv.jpg",
+  "image": {
+    "blob_path": "b5208cc3f453406eb48788b894a04fca/image/cv.jpg",
+    "content-type": "image/jpeg",
+    "filename": "cv.jpg",
+    "height": 400,
+    "size": 39866,
+    "width": 266
+  },
+  "is_folderish": false,
+  "language": "##DEFAULT##",
+  "layout": "image_view",
+  "lock": {},
+  "modified": "2026-03-07T22:16:05+00:00",
+  "review_state": null,
+  "rights": "",
+  "subjects": [],
+  "title": "cv.jpg",
+  "type_title": "Image",
+  "version": "current",
+  "workflow_history": {},
+  "working_copy": null,
+  "working_copy_of": null
+}

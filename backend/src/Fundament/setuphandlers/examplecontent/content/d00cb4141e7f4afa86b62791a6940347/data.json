@@ -1,0 +1,42 @@
+{
+  "@id": "/mitgliederbereich/bilder/p1020824_0.jpg",
+  "@type": "Image",
+  "UID": "d00cb4141e7f4afa86b62791a6940347",
+  "allow_discussion": null,
+  "contributors": [],
+  "created": "2026-02-14T21:44:03+00:00",
+  "creators": [
+    "Unbekannt"
+  ],
+  "description": "",
+  "effective": null,
+  "exclude_from_nav": false,
+  "expires": null,
+  "exportimport.constrains": {},
+  "exportimport.conversation": [],
+  "id": "p1020824_0.jpg",
+  "image": {
+    "blob_path": "d00cb4141e7f4afa86b62791a6940347/image/p1020824_0.jpg",
+    "content-type": "image/jpeg",
+    "filename": "p1020824_0.jpg",
+    "height": 1920,
+    "size": 2303867,
+    "width": 2560
+  },
+  "is_folderish": false,
+  "language": "##DEFAULT##",
+  "layout": "image_view",
+  "lock": {},
+  "modified": "2026-02-14T21:44:03+00:00",
+  "review_state": null,
+  "rights": null,
+  "subjects": [
+    "Naxos"
+  ],
+  "title": "p1020824_0.jpg",
+  "type_title": "Image",
+  "version": "current",
+  "workflow_history": {},
+  "working_copy": null,
+  "working_copy_of": null
+}

@@ -1,0 +1,37 @@
+[
+  {
+    "from_attribute": "related_photos",
+    "from_uuid": "0ef211c3e47c4d76b30ce02982118211",
+    "to_uuid": "2d5f7abed79846ce9eaaed1906636993"
+  },
+  {
+    "from_attribute": "related_photos",
+    "from_uuid": "0ef211c3e47c4d76b30ce02982118211",
+    "to_uuid": "c7f6e125ac934558a09142b421634272"
+  },
+  {
+    "from_attribute": "related_photos",
+    "from_uuid": "0ef211c3e47c4d76b30ce02982118211",
+    "to_uuid": "d00cb4141e7f4afa86b62791a6940347"
+  },
+  {
+    "from_attribute": "relatedItems",
+    "from_uuid": "366f20f8c19b4d8a8751e9a8af07920e",
+    "to_uuid": "9028978456064e228073274be5039c2c"
+  },
+  {
+    "from_attribute": "isReferencing",
+    "from_uuid": "7312e33d374a44b78ba06da1449756b4",
+    "to_uuid": "b0a0d1a5c9604cd191c0a01a6ab2b6ab"
+  },
+  {
+    "from_attribute": "isReferencing",
+    "from_uuid": "98cedd7b0f1d4416b97979a07f269085",
+    "to_uuid": "b0a0d1a5c9604cd191c0a01a6ab2b6ab"
+  },
+  {
+    "from_attribute": "isReferencing",
+    "from_uuid": "d021b3f24b354f949b222866becd2e47",
+    "to_uuid": "8c40aff4165e4b18ad85c3088755edd0"
+  }
+]

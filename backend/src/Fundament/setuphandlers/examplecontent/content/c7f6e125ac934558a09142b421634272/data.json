@@ -1,0 +1,40 @@
+{
+  "@id": "/bilder/anerkennung-architektenkammer-2008-md.jpg",
+  "@type": "Image",
+  "UID": "c7f6e125ac934558a09142b421634272",
+  "allow_discussion": null,
+  "contributors": [],
+  "created": "2026-03-07T22:15:44+00:00",
+  "creators": [
+    "admin"
+  ],
+  "description": "",
+  "effective": null,
+  "exclude_from_nav": false,
+  "expires": null,
+  "exportimport.constrains": {},
+  "exportimport.conversation": [],
+  "id": "anerkennung-architektenkammer-2008-md.jpg",
+  "image": {
+    "blob_path": "c7f6e125ac934558a09142b421634272/image/anerkennung-architektenkammer-2008-md.jpg",
+    "content-type": "image/jpeg",
+    "filename": "anerkennung-architektenkammer-2008-md.jpg",
+    "height": 783,
+    "size": 163737,
+    "width": 600
+  },
+  "is_folderish": false,
+  "language": "##DEFAULT##",
+  "layout": "image_view",
+  "lock": {},
+  "modified": "2026-03-07T22:15:44+00:00",
+  "review_state": null,
+  "rights": "",
+  "subjects": [],
+  "title": "anerkennung-architektenkammer-2008-md.jpg",
+  "type_title": "Image",
+  "version": "current",
+  "workflow_history": {},
+  "working_copy": null,
+  "working_copy_of": null
+}

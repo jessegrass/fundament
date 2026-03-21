@@ -1,0 +1,114 @@
+{
+  "groups": [
+    {
+      "description": "",
+      "email": "",
+      "groupid": "Administrators",
+      "groups": [],
+      "principals": [],
+      "roles": [
+        "Manager"
+      ],
+      "title": "Administrators"
+    },
+    {
+      "description": "Der Aufsichtsrat unserer Genossenschaft",
+      "email": "",
+      "groupid": "Aufsichtsrat",
+      "groups": [],
+      "principals": [
+        "kai-oliver.tiffany"
+      ],
+      "roles": [],
+      "title": "Aufsichtsrat"
+    },
+    {
+      "description": "",
+      "email": "",
+      "groupid": "Naxos",
+      "groups": [],
+      "principals": [
+        "naxos"
+      ],
+      "roles": [],
+      "title": "Naxos"
+    },
+    {
+      "description": "",
+      "email": "",
+      "groupid": "Reviewers",
+      "groups": [],
+      "principals": [],
+      "roles": [
+        "Reviewer"
+      ],
+      "title": "Reviewers"
+    },
+    {
+      "description": "",
+      "email": "",
+      "groupid": "Site Administrators",
+      "groups": [],
+      "principals": [],
+      "roles": [
+        "Site Administrator"
+      ],
+      "title": "Site Administrators"
+    },
+    {
+      "description": "Der Vorstand unserer Genossenschaft",
+      "email": "",
+      "groupid": "Vorstand",
+      "groups": [],
+      "principals": [],
+      "roles": [],
+      "title": "Vorstand"
+    }
+  ],
+  "members": [
+    {
+      "description": "",
+      "email": "lall@lalll.com",
+      "fullname": "GAST",
+      "groups": [],
+      "home_page": "",
+      "location": "",
+      "login_name": "gast",
+      "password": "{SSHA}cvXEoimNmilMm7VZ6WPwRgBdIeE3X7LH/edk",
+      "roles": [],
+      "username": "gast"
+    },
+    {
+      "description": "",
+      "email": "kai@unordnung.org",
+      "fullname": "Kai-Oli Tiffany",
+      "groups": [
+        "Aufsichtsrat"
+      ],
+      "home_page": "",
+      "location": "",
+      "login_name": "kai-oliver.tiffany",
+      "password": "{SSHA}M0l1QWRIXrN/yCSTzeNaYGJdEStgnNL59ctJ",
+      "roles": [
+        "Member"
+      ],
+      "username": "kai-oliver.tiffany"
+    },
+    {
+      "description": "",
+      "email": "lall@lull.com",
+      "fullname": "Naxox",
+      "groups": [
+        "Naxos"
+      ],
+      "home_page": "",
+      "location": "",
+      "login_name": "naxos",
+      "password": "{SSHA}IcedspH0RKfLgLn/syD9cDbnU0xD9NVLNj0R",
+      "roles": [
+        "Member"
+      ],
+      "username": "naxos"
+    }
+  ]
+}

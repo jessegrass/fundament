@@ -1,0 +1,83 @@
+{
+  "@id": "/projekte/frankfurter-familien",
+  "@type": "Folder",
+  "UID": "265ff0209f644a58826a650d9d73da0b",
+  "allow_discussion": null,
+  "contributors": [],
+  "created": "2026-02-14T20:01:40+00:00",
+  "creators": [
+    "admin"
+  ],
+  "description": "Das Haus in der Alkmenestra\u00dfe wuchs mit der Genossenschaft, die gerade gegr\u00fcndet worden war. Hier wohnen acht junge Familien. Es handelt sich um ein frei stehendes Haus mit Garten am Rand des neuen Wohngebiets im Frankfurter Bogen in Preungesheim.",
+  "effective": "2026-02-14T20:31:00+00:00",
+  "exclude_from_nav": false,
+  "expires": null,
+  "exportimport.constrains": {},
+  "exportimport.conversation": [],
+  "id": "frankfurter-familien",
+  "is_folderish": true,
+  "language": "##DEFAULT##",
+  "layout": "listing_view",
+  "lock": {},
+  "modified": "2026-02-14T20:35:41+00:00",
+  "nextPreviousEnabled": false,
+  "review_state": "external",
+  "rights": null,
+  "subjects": [
+    "Projekt",
+    "Frankfurter Familien"
+  ],
+  "title": "Frankfurter Familien",
+  "type_title": "Folder",
+  "version": "current",
+  "workflow_history": {
+    "intranet_folder_workflow": [
+      {
+        "action": null,
+        "actor": "admin",
+        "comments": "",
+        "review_state": "internal",
+        "time": "2026-02-14T20:01:40+00:00"
+      },
+      {
+        "action": "hide",
+        "actor": "admin",
+        "comments": "",
+        "review_state": "private",
+        "time": "2026-02-14T20:31:42+00:00"
+      },
+      {
+        "action": "show_internally",
+        "actor": "admin",
+        "comments": "",
+        "review_state": "internal",
+        "time": "2026-02-14T20:31:56+00:00"
+      }
+    ],
+    "intranet_workflow": [
+      {
+        "action": null,
+        "actor": null,
+        "comments": "State remapped from control panel",
+        "review_state": "internal",
+        "time": "2026-02-14T20:35:06+00:00"
+      },
+      {
+        "action": "submit",
+        "actor": "admin",
+        "comments": "",
+        "review_state": "pending",
+        "time": "2026-02-14T20:35:27+00:00"
+      },
+      {
+        "action": "publish_externally",
+        "actor": "admin",
+        "comments": "",
+        "review_state": "external",
+        "time": "2026-02-14T20:35:41+00:00"
+      }
+    ]
+  },
+  "working_copy": null,
+  "working_copy_of": null
+}

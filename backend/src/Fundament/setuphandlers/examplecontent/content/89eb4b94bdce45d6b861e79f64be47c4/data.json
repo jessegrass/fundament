@@ -1,0 +1,40 @@
+{
+  "@id": "/bilder/fun_header_neu.jpg",
+  "@type": "Image",
+  "UID": "89eb4b94bdce45d6b861e79f64be47c4",
+  "allow_discussion": null,
+  "contributors": [],
+  "created": "2026-03-07T22:16:01+00:00",
+  "creators": [
+    "admin"
+  ],
+  "description": "",
+  "effective": null,
+  "exclude_from_nav": false,
+  "expires": null,
+  "exportimport.constrains": {},
+  "exportimport.conversation": [],
+  "id": "fun_header_neu.jpg",
+  "image": {
+    "blob_path": "89eb4b94bdce45d6b861e79f64be47c4/image/fun_header_neu.jpg",
+    "content-type": "image/jpeg",
+    "filename": "fun_header_neu.jpg",
+    "height": 200,
+    "size": 58991,
+    "width": 970
+  },
+  "is_folderish": false,
+  "language": "##DEFAULT##",
+  "layout": "image_view",
+  "lock": {},
+  "modified": "2026-03-07T22:16:01+00:00",
+  "review_state": null,
+  "rights": "",
+  "subjects": [],
+  "title": "fun_header_neu.jpg",
+  "type_title": "Image",
+  "version": "current",
+  "workflow_history": {},
+  "working_copy": null,
+  "working_copy_of": null
+}

@@ -1,0 +1,60 @@
+{
+  "@id": "/mitgliederbereich/termine/mitgliederversammlung-2026",
+  "@type": "Event",
+  "UID": "5b503e9efd754bdb894b30562c00789e",
+  "allow_discussion": null,
+  "attendees": [],
+  "changeNote": "",
+  "contact_email": null,
+  "contact_name": null,
+  "contact_phone": null,
+  "contributors": [],
+  "created": "2026-02-15T05:07:07+00:00",
+  "creators": [
+    "admin"
+  ],
+  "description": "Auch in 2026 findet unsere Satzungsgem\u00e4\u00dfe Mitgliederversammlung statt.",
+  "effective": null,
+  "end": "2026-06-30T19:00:00+00:00",
+  "event_url": null,
+  "exclude_from_nav": false,
+  "expires": null,
+  "exportimport.constrains": {},
+  "exportimport.conversation": [],
+  "id": "mitgliederversammlung-2026",
+  "is_folderish": false,
+  "language": "##DEFAULT##",
+  "layout": "event_view",
+  "location": "Festhalle Frankfurt",
+  "lock": {
+    "locked": false,
+    "stealable": true
+  },
+  "modified": "2026-03-03T18:07:19+00:00",
+  "open_end": true,
+  "recurrence": null,
+  "review_state": "internal",
+  "rights": null,
+  "start": "2026-06-30T16:30:00+00:00",
+  "subjects": [],
+  "sync_uid": null,
+  "text": null,
+  "title": "Mitgliederversammlung 2026",
+  "type_title": "Event",
+  "version": "current",
+  "versioning_enabled": true,
+  "whole_day": false,
+  "workflow_history": {
+    "intranet_workflow": [
+      {
+        "action": null,
+        "actor": "admin",
+        "comments": "",
+        "review_state": "internal",
+        "time": "2026-02-15T05:07:07+00:00"
+      }
+    ]
+  },
+  "working_copy": null,
+  "working_copy_of": null
+}

@@ -1,0 +1,50 @@
+{
+  "@id": "/projekte/naxos/intern",
+  "@type": "Folder",
+  "UID": "cdb407ae4eab473585a020ce9e0e43d3",
+  "allow_discussion": null,
+  "contributors": [],
+  "created": "2026-02-14T22:43:38+00:00",
+  "creators": [
+    "admin"
+  ],
+  "description": "Nur f\u00fcr Mitglieder der Naxos Gruppe",
+  "effective": "2026-02-15T00:07:00+00:00",
+  "exclude_from_nav": false,
+  "expires": null,
+  "exportimport.constrains": {},
+  "exportimport.conversation": [],
+  "id": "intern",
+  "is_folderish": true,
+  "language": "##DEFAULT##",
+  "layout": "listing_view",
+  "lock": {},
+  "modified": "2026-02-15T00:07:39+00:00",
+  "nextPreviousEnabled": false,
+  "review_state": "private",
+  "rights": null,
+  "subjects": [],
+  "title": "Intern",
+  "type_title": "Folder",
+  "version": "current",
+  "workflow_history": {
+    "intranet_workflow": [
+      {
+        "action": null,
+        "actor": "admin",
+        "comments": "",
+        "review_state": "internal",
+        "time": "2026-02-14T22:43:38+00:00"
+      },
+      {
+        "action": "hide",
+        "actor": "admin",
+        "comments": "",
+        "review_state": "private",
+        "time": "2026-02-15T00:07:39+00:00"
+      }
+    ]
+  },
+  "working_copy": null,
+  "working_copy_of": null
+}

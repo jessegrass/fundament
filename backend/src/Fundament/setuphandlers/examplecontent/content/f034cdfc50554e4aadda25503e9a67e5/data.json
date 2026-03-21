@@ -1,0 +1,40 @@
+{
+  "@id": "/bilder/fundament-tryptichon-2011.jpg",
+  "@type": "Image",
+  "UID": "f034cdfc50554e4aadda25503e9a67e5",
+  "allow_discussion": null,
+  "contributors": [],
+  "created": "2026-03-07T22:15:55+00:00",
+  "creators": [
+    "admin"
+  ],
+  "description": "",
+  "effective": null,
+  "exclude_from_nav": false,
+  "expires": null,
+  "exportimport.constrains": {},
+  "exportimport.conversation": [],
+  "id": "fundament-tryptichon-2011.jpg",
+  "image": {
+    "blob_path": "f034cdfc50554e4aadda25503e9a67e5/image/fundament-tryptichon-2011.jpg",
+    "content-type": "image/jpeg",
+    "filename": "fundament-tryptichon-2011.jpg",
+    "height": 450,
+    "size": 109456,
+    "width": 1000
+  },
+  "is_folderish": false,
+  "language": "##DEFAULT##",
+  "layout": "image_view",
+  "lock": {},
+  "modified": "2026-03-07T22:15:55+00:00",
+  "review_state": null,
+  "rights": "",
+  "subjects": [],
+  "title": "fundament-tryptichon-2011.jpg",
+  "type_title": "Image",
+  "version": "current",
+  "workflow_history": {},
+  "working_copy": null,
+  "working_copy_of": null
+}
