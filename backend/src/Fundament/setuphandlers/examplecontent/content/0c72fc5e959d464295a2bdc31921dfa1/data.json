@@ -33,16 +33,8 @@
   "language": "##DEFAULT##",
   "layout": "view",
   "lock": {
-    "created": "2026-03-13T11:39:03+00:00",
-    "creator": "admin",
-    "creator_name": "admin",
-    "creator_url": "http://nohost/Plone/author/admin",
-    "locked": true,
-    "name": "plone.locking.stealable",
-    "stealable": true,
-    "time": 1773401943.137704,
-    "timeout": 600,
-    "token": "0.4650852046722317-0.1770569094204184-00105A989226:1773401943.138"
+    "locked": false,
+    "stealable": true
   },
   "logo": null,
   "modified": "2026-03-13T11:38:39+00:00",
