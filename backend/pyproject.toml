@@ -45,10 +45,10 @@ test = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/jesse.grass/fundament"
+Homepage = "https://github.com/Jesse.Grass/fundament"
 PyPI = "https://pypi.org/project/Fundament"
-Source = "https://github.com/jesse.grass/fundament"
-Tracker = "https://github.com/jesse.grass/fundament/issues"
+Source = "https://github.com/Jesse.Grass/fundament"
+Tracker = "https://github.com/Jesse.Grass/fundament/issues"
 
 
 [project.entry-points."plone.autoinclude.plugin"]
@@ -81,7 +81,7 @@ filename = "CHANGELOG.md"
 start_string = "<!-- towncrier release notes start -->\n"
 title_format = "## {version} ({project_date})"
 template = "news/.changelog_template.jinja"
-issue_format = "[#{issue}](https://github.com/jesse.grass/fundament/issues/{issue})"
+issue_format = "[#{issue}](https://github.com/Jesse.Grass/fundament/issues/{issue})"
 underlines = ["", "", ""]
 
 [[tool.towncrier.type]]

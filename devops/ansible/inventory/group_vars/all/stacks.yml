@@ -42,7 +42,7 @@ stacks:
     stack_name: "fundament-unordnung-org"
     main_folder: "/srv/fundament"
     env_vars:
-      IMAGE_NAME_PREFIX: "ghcr.io/jesse.grass/ansible"
+      IMAGE_NAME_PREFIX: "ghcr.io/Jesse.Grass/ansible"
       IMAGE_TAG: "latest"
       STACK_NAME: "fundament-unordnung-org"
       STACK_HOSTNAME: "fundament.unordnung.org"
