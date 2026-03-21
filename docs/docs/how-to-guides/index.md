@@ -1,10 +1,10 @@
 ---
 myst:
   html_meta:
-    "description": "clasic how-to guides"
-    "property=og:description": "clasic how-to guides"
-    "property=og:title": "clasic how-to guides"
-    "keywords": "Plone, clasic, how-to, guides"
+    "description": "Fundament how-to guides"
+    "property=og:description": "Fundament how-to guides"
+    "property=og:title": "Fundament how-to guides"
+    "keywords": "Plone, Fundament, how-to, guides"
 ---
 
 # How-to guides

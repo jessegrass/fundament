@@ -1,5 +1,5 @@
 [repository]
-name = "clasic"
+name = "Fundament"
 managed_by_uv = false
 changelog = "CHANGELOG.md"
 version = "version.txt"
@@ -13,7 +13,7 @@ settings = "towncrier.toml"
 path = "backend"
 
 [backend.package]
-name = "clasic"
+name = "Fundament"
 path = "backend"
 changelog = "backend/CHANGELOG.md"
 towncrier_settings = "backend/pyproject.toml"

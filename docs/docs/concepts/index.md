@@ -1,10 +1,10 @@
 ---
 myst:
   html_meta:
-    "description": "clasic concepts"
-    "property=og:description": "clasic concepts"
-    "property=og:title": "clasic concepts"
-    "keywords": "Plone, clasic, concepts"
+    "description": "Fundament concepts"
+    "property=og:description": "Fundament concepts"
+    "property=og:title": "Fundament concepts"
+    "keywords": "Plone, Fundament, concepts"
 ---
 
 # Concepts

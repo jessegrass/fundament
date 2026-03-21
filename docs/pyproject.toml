@@ -1,8 +1,8 @@
 [project]
-name = "clasic_Documentation"
-description = "Fundament-clasic-site"
+name = "Fundament_Documentation"
+description = "Fundament-Fundament-site"
 keywords = [
-    "clasic",
+    "Fundament",
     "documentation",
     "Plone",
     "Diátaxis",
@@ -53,7 +53,7 @@ dev = [
 ]
 
 [project.urls]
-Repository = "https://github.com/collective/clasic"
+Repository = "https://github.com/jesse.grass/fundament"
 Documentation = "https://MY_READTHEDOCS_PROJECT_SLUG.readthedocs.io/"
 
 [build-system]

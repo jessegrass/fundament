@@ -11,10 +11,12 @@ MAKEFLAGS+=--no-builtin-rules
 CURRENT_DIR:=$(shell dirname $(realpath $(lastword $(MAKEFILE_LIST))))
 GIT_FOLDER=$(CURRENT_DIR)/.git
 
-PROJECT_NAME=clasic
+PROJECT_NAME=Fundament
 STACK_NAME=fundament-unordnung-org
 
 PLONE_VERSION=$(shell cat backend/version.txt)
+
+export PYTHONWARNINGS := ignore
 
 # We like colors
 # From: https://coderwall.com/p/izxssa/colored-makefile-for-golang-projects
@@ -119,13 +121,13 @@ build-images:  ## Build container images
 stack-create-site:  ## Local Stack: Create a new site
 	@echo "Create a new site in the local Docker stack"
 	@echo "(Stack must not be running already.)"
-	PLONE_VERSION=$(PLONE_VERSION) docker compose -f docker-compose.yml run --build backend ./docker-entrypoint.sh create-site
+	PLONE_VERSION=$(PLONE_VERSION) docker compose -f docker-compose.yml run --build backend ./docker-entrypoint.sh create-classic
 
 .PHONY: stack-start
 stack-start:  ## Local Stack: Start Services
 	@echo "Start local Docker stack"
 	PLONE_VERSION=$(PLONE_VERSION) docker compose -f docker-compose.yml up -d --build
-	@echo "Now visit: http://clasic.localhost"
+	@echo "Now visit: http://Fundament.localhost"
 
 .PHONY: stack-status
 stack-status:  ## Local Stack: Check Status

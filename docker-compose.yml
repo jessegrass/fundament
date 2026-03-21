@@ -1,5 +1,5 @@
 ---
-name: clasic
+name: Fundament
 
 services:
   traefik:
@@ -11,7 +11,7 @@ services:
     labels:
       - traefik.enable=true
       - traefik.constraint-label=public
-      - traefik.http.routers.traefik-public-http.rule=Host(`traefik.clasic.localhost`)
+      - traefik.http.routers.traefik-public-http.rule=Host(`traefik.Fundament.localhost`)
       - traefik.http.routers.traefik-public-http.entrypoints=http
       - traefik.http.routers.traefik-public-http.service=api@internal
       - traefik.http.services.traefik-public.loadbalancer.server.port=8000
@@ -37,7 +37,7 @@ services:
       PURGER_SERVICE_NAME: varnish
       PURGER_SERVICE_PORT: 80
       PURGER_MODE: "compose"
-      PURGER_PUBLIC_SITES: "['clasic.localhost']"
+      PURGER_PUBLIC_SITES: "['Fundament.localhost']"
 
   varnish:
     build:
@@ -67,17 +67,17 @@ services:
 
       # Middleware
       ## VHM points to /Plone
-      - "traefik.http.middlewares.mw-backend-vhm-classic.addprefix.prefix=/VirtualHostBase/http/clasic.localhost/Plone/VirtualHostRoot/"
+      - "traefik.http.middlewares.mw-backend-vhm-classic.addprefix.prefix=/VirtualHostBase/http/Fundament.localhost/VirtualHostRoot"
 
       # Routers
       ## Router: From incoming to Varnish (public)
-      - traefik.http.routers.rt-backend-public.rule=Host(`clasic.localhost`)
+      - traefik.http.routers.rt-backend-public.rule=Host(`Fundament.localhost`)
       - traefik.http.routers.rt-backend-public.entrypoints=http
       - traefik.http.routers.rt-backend-public.service=svc-varnish
       - traefik.http.routers.rt-backend-public.middlewares=gzip
 
       ## Router: from Varnish to backend (internal)
-      - traefik.http.routers.rt-backend-internal.rule=Host(`clasic.localhost`) && Headers(`X-Varnish-Routed`, `1`)
+      - traefik.http.routers.rt-backend-internal.rule=Host(`Fundament.localhost`) && Headers(`X-Varnish-Routed`, `1`)
       - traefik.http.routers.rt-backend-internal.entrypoints=http
       - traefik.http.routers.rt-backend-internal.service=svc-backend
       - traefik.http.routers.rt-backend-internal.middlewares=mw-backend-vhm-classic

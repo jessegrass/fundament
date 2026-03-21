@@ -1,10 +1,10 @@
 ---
 myst:
   html_meta:
-    "description": "clasic Reference"
-    "property=og:description": "clasic Reference"
-    "property=og:title": "clasic Reference"
-    "keywords": "Plone, _clasic,_ reference"
+    "description": "Fundament Reference"
+    "property=og:description": "Fundament Reference"
+    "property=og:title": "Fundament Reference"
+    "keywords": "Plone, _Fundament,_ reference"
 ---
 
 # Reference

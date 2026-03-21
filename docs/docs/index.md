@@ -1,16 +1,16 @@
 ---
 myst:
   html_meta:
-    "description": "Fundament-clasic-site"
-    "property=og:description": "Fundament-clasic-site"
-    "property=og:title": "clasic"
-    "keywords": "clasic, documentation, Fundament-clasic-site"
+    "description": "Fundament-Fundament-site"
+    "property=og:description": "Fundament-Fundament-site"
+    "property=og:title": "Fundament"
+    "keywords": "Fundament, documentation, Fundament-Fundament-site"
 ---
 
-# clasic
+# Fundament
 
-Welcome to the documentation for clasic!
-Fundament-clasic-site
+Welcome to the documentation for Fundament!
+Fundament-Fundament-site
 
 This scaffold provides a ready-to-use environment for creating comprehensive documentation for {term}`Plone` projects, based on {term}`Plone Sphinx Theme`.
 

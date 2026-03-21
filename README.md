@@ -1,10 +1,10 @@
-# clasic 🚀
+# Fundament 🚀
 
 [![Built with Cookieplone](https://img.shields.io/badge/built%20with-Cookieplone-0083be.svg?logo=cookiecutter)](https://github.com/plone/cookieplone-templates/)
 [![Black code style](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
-[![Backend Tests](https://github.com/collective/clasic/actions/workflows/backend.yml/badge.svg)](https://github.com/collective/clasic/actions/workflows/backend.yml)
+[![Backend Tests](https://github.com/jesse.grass/fundament/actions/workflows/backend.yml/badge.svg)](https://github.com/jesse.grass/fundament/actions/workflows/backend.yml)
 
-Fundament-clasic-site
+Fundament-Fundament-site
 
 ## Quick Start 🏁
 
@@ -22,8 +22,8 @@ Fundament-clasic-site
 1.  Clone this repository, then change your working directory.
 
     ```shell
-    git clone git@github.com:collective/clasic.git
-    cd clasic
+    git clone git@github.com:collective/Fundament.git
+    cd Fundament
     ```
 
 2.  Install this code base.
@@ -55,7 +55,7 @@ Deploy a local Docker Compose environment that includes the following.
 
 - Docker image for Backend 🖼️
 - A stack with a Traefik router and a PostgreSQL database 🗃️
-- Accessible at [http://clasic.localhost](http://clasic.localhost) 🌐
+- Accessible at [http://Fundament.localhost](http://Fundament.localhost) 🌐
 
 Run the following commands in a shell session.
 
@@ -70,7 +70,7 @@ And... you're all set! Your Plone site is up and running locally! 🚀
 
 This monorepo consists of the following distinct sections:
 
-- **backend**: Houses the API and Plone installation, utilizing pip instead of buildout, and includes a policy package named clasic.
+- **backend**: Houses the API and Plone installation, utilizing pip instead of buildout, and includes a policy package named Fundament.
 - **devops**: Encompasses Docker stack, Ansible playbooks, and cache settings.
 - **docs**: Scaffold for writing documentation for your project.
 
