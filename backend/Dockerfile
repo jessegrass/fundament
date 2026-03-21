@@ -34,7 +34,7 @@ EOT
 FROM plone/server-prod-config:${PLONE_VERSION}
 
 LABEL maintainer="Kai-Oli <kai@link-f.org>" \
-      org.label-schema.name="Fundament-backend" \
+      org.label-schema.name="fundament-backend" \
       org.label-schema.description="Fundament backend image." \
       org.label-schema.vendor="Kai-Oli"
 
