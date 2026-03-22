@@ -15,7 +15,7 @@ GREEN=`tput setaf 2`
 RESET=`tput sgr0`
 YELLOW=`tput setaf 3`
 
-IMAGE_NAME_PREFIX=ghcr.io/Jesse.Grass/fundament
+IMAGE_NAME_PREFIX=ghcr.io/jessegrass/fundament
 IMAGE_TAG=latest
 
 # Python checks

@@ -6,7 +6,7 @@ on:
       image-name-prefix:
         required: false
         type: string
-        default: "ghcr.io/Jesse.Grass/fundament"
+        default: "ghcr.io/jessegrass/fundament"
       python-version:
         required: false
         type: string

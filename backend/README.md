@@ -22,8 +22,8 @@ make create-site
 
 ## Contribute
 
-- [Issue tracker](https://github.com/jesse.grass/fundament/issues)
-- [Source code](https://github.com/jesse.grass/fundament/)
+- [Issue tracker](https://github.com/jessegrass/fundament/issues)
+- [Source code](https://github.com/jessegrass/fundament/)
 
 ### Prerequisites ✅
 

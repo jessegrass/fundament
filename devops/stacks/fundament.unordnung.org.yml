@@ -83,7 +83,7 @@ services:
         order: start-first
 
   varnish:
-    image: ghcr.io/Jesse.Grass/fundament-varnish:${STACK_PARAM:-latest}
+    image: ghcr.io/jessegrass/fundament-varnish:${STACK_PARAM:-latest}
     command:
       - '-p'
       - 'nuke_limit=2000'
@@ -117,7 +117,7 @@ services:
         - traefik.http.routers.rt-varnish-public.middlewares=gzip
 
   backend:
-    image: ghcr.io/Jesse.Grass/fundament-backend:${STACK_PARAM:-latest}
+    image: ghcr.io/jessegrass/fundament-backend:${STACK_PARAM:-latest}
     environment:
       RELSTORAGE_DSN: "dbname='${DB_NAME:-plone}' user='${DB_USER:-plone}' host='${DB_HOST:-db}' password='${DB_PASSWORD:-jWxmiVrhpXkM}' port='${DB_PORT:-5432}'"
     depends_on:
