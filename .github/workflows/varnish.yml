@@ -1,10 +1,6 @@
 name: Varnish Image Creation
 
 on:
-  workflow_dispatch:
-
-
-on:
   workflow_call:
     inputs:
       base-tag:
@@ -20,6 +16,9 @@ on:
         required: false
         type: string
         default: devops/varnish
+
+  workflow_dispatch:
+
 
 jobs:
 
